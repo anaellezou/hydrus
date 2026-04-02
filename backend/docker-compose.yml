@@ -1,0 +1,10 @@
+services:
+  backend:
+    build: .
+    ports:
+      - "5001:5000"
+    volumes:
+      - ./app/database:/app/app/database
+    environment:
+      - FLASK_ENV=development
+    restart: always
