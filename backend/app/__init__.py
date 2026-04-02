@@ -8,7 +8,7 @@ def create_app(config=None):
     # Load configuration
     app.config.from_mapping(
         DATABASE=os.path.join(os.path.dirname(__file__), "database", "kanji_database.db"),
-        SECRET_KEY="dev",
+        SECRET_KEY=os.environ.get("SECRET_KEY", "dev"),
     )
 
     if config:
