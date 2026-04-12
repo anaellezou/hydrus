@@ -4,7 +4,7 @@ services:
     ports:
       - "5001:5000"
     volumes:
-      - ./app/database:/app/app/database
+      - ./jlpt.db:/app/jlpt.db
     environment:
       - FLASK_ENV=development
     restart: always

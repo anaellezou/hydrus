@@ -21,9 +21,8 @@ class Kanji:
             level=row["level"]
         )
 
-    # ----------------------------------------
-    # Queries
-    # ----------------------------------------
+    
+    # queries
 
     @classmethod
     def get_all_kanji(cls, level=None):

@@ -1,0 +1,506 @@
+[
+    {
+        "romaji": "cha ikenai / ja ikenai",
+        "japanese": "ちゃいけない・じゃいけない",
+        "meaning": "must not do (spoken Japanese)",
+        "level": "N5"
+    },
+    {
+        "romaji": "da / desu",
+        "japanese": "だ / です",
+        "meaning": "to be (am, is, are, were, used to)",
+        "level": "N5"
+    },
+    {
+        "romaji": "dake",
+        "japanese": "だけ",
+        "meaning": "only; just; as much as ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "darou",
+        "japanese": "だろう",
+        "meaning": "I think; it seems; probably; right?",
+        "level": "N5"
+    },
+    {
+        "romaji": "de",
+        "japanese": "で",
+        "meaning": "in; at; on; by; with; via ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "demo",
+        "japanese": "でも",
+        "meaning": "but; however; though ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "deshou",
+        "japanese": "でしょう",
+        "meaning": "I think; it seems; probably; right?",
+        "level": "N5"
+    },
+    {
+        "romaji": "donna",
+        "japanese": "どんな",
+        "meaning": "what kind of; what sort of",
+        "level": "N5"
+    },
+    {
+        "romaji": "doushite",
+        "japanese": "どうして",
+        "meaning": "why; for what reason; how",
+        "level": "N5"
+    },
+    {
+        "romaji": "douyatte",
+        "japanese": "どうやって",
+        "meaning": "how; in what way; by what means​",
+        "level": "N5"
+    },
+    {
+        "romaji": "ga",
+        "japanese": "が",
+        "meaning": "subject marker; however; but ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "ga arimasu",
+        "japanese": "があります",
+        "meaning": "there is; is (non-living things)",
+        "level": "N5"
+    },
+    {
+        "romaji": "ga hoshii",
+        "japanese": "がほしい",
+        "meaning": "to want something",
+        "level": "N5"
+    },
+    {
+        "romaji": "ga imasu",
+        "japanese": "がいます",
+        "meaning": "there is; to be; is (living things)",
+        "level": "N5"
+    },
+    {
+        "romaji": "hou ga ii",
+        "japanese": "ほうがいい",
+        "meaning": "had better; it'd be better to; should ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "i-adjectives",
+        "japanese": "い-adjectives",
+        "meaning": "i-adjectives",
+        "level": "N5"
+    },
+    {
+        "romaji": "ichiban",
+        "japanese": "一番（いちばん）",
+        "meaning": "the most; the best",
+        "level": "N5"
+    },
+    {
+        "romaji": "issho ni",
+        "japanese": "一緒に（いっしょに）",
+        "meaning": "together",
+        "level": "N5"
+    },
+    {
+        "romaji": "itsumo",
+        "japanese": "いつも",
+        "meaning": "always; usually; habitually",
+        "level": "N5"
+    },
+    {
+        "romaji": "janai / dewa nai",
+        "japanese": "じゃない・ではない",
+        "meaning": "to not be (am not; is not; are not)",
+        "level": "N5"
+    },
+    {
+        "romaji": "ka",
+        "japanese": "か",
+        "meaning": "question particle",
+        "level": "N5"
+    },
+    {
+        "romaji": "ka~ka",
+        "japanese": "か～か",
+        "meaning": "or",
+        "level": "N5"
+    },
+    {
+        "romaji": "kara",
+        "japanese": "から",
+        "meaning": "because; since; from",
+        "level": "N5"
+    },
+    {
+        "romaji": "kata",
+        "japanese": "方（かた）",
+        "meaning": "the way of doing something; how to do ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "kedo",
+        "japanese": "けど",
+        "meaning": "but; however; although ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "keredo mo",
+        "japanese": "けれども",
+        "meaning": "but; however; although ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "mada",
+        "japanese": "まだ",
+        "meaning": "still; not yet",
+        "level": "N5"
+    },
+    {
+        "romaji": "mada ~te imasen",
+        "japanese": "まだ～ていません",
+        "meaning": "have not yet ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "made",
+        "japanese": "まで",
+        "meaning": "until; as far as; to (an extent); even ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "mae ni",
+        "japanese": "前に（まえに）",
+        "meaning": "before; in front of ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "masen ka",
+        "japanese": "ませんか",
+        "meaning": "would you; do you want to; shall we ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "mashou",
+        "japanese": "ましょう",
+        "meaning": "let's ~; shall we ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "mashouka",
+        "japanese": "ましょうか",
+        "meaning": "shall I ~; used to offer help to the listener",
+        "level": "N5"
+    },
+    {
+        "romaji": "mo",
+        "japanese": "も",
+        "meaning": "too; also; as well",
+        "level": "N5"
+    },
+    {
+        "romaji": "mou",
+        "japanese": "もう",
+        "meaning": "already; anymore; again; other",
+        "level": "N5"
+    },
+    {
+        "romaji": "na-adjectives",
+        "japanese": "な-adjectives",
+        "meaning": "na-adjectives",
+        "level": "N5"
+    },
+    {
+        "romaji": "naa",
+        "japanese": "なあ",
+        "meaning": "sentence ending particle; confirmation; admiration, etc",
+        "level": "N5"
+    },
+    {
+        "romaji": "naide",
+        "japanese": "ないで",
+        "meaning": "without doing ~; to do [B] without doing [A]",
+        "level": "N5"
+    },
+    {
+        "romaji": "naide kudasai",
+        "japanese": "ないでください",
+        "meaning": "please don't do ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "naito ikenai",
+        "japanese": "ないといけない",
+        "meaning": "must do; have an obligation to do ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "naku temo ii",
+        "japanese": "なくてもいい",
+        "meaning": "don't have to",
+        "level": "N5"
+    },
+    {
+        "romaji": "nakucha",
+        "japanese": "なくちゃ",
+        "meaning": "must do; need to; gotta do ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "nakute wa ikenai",
+        "japanese": "なくてはいけない",
+        "meaning": "must do; need to do",
+        "level": "N5"
+    },
+    {
+        "romaji": "nakute wa naranai",
+        "japanese": "なくてはならない",
+        "meaning": "must do; need to do ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "naru",
+        "japanese": "なる",
+        "meaning": "to become",
+        "level": "N5"
+    },
+    {
+        "romaji": "ndesu",
+        "japanese": "んです",
+        "meaning": "to explain something; show emphasis",
+        "level": "N5"
+    },
+    {
+        "romaji": "ne",
+        "japanese": "ね",
+        "meaning": "isn't it? right? eh?",
+        "level": "N5"
+    },
+    {
+        "romaji": "ni",
+        "japanese": "に",
+        "meaning": "destination particle; in; at; on; to",
+        "level": "N5"
+    },
+    {
+        "romaji": "ni iku",
+        "japanese": "に行く（にいく）",
+        "meaning": "go to do ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "ni suru",
+        "japanese": "にする",
+        "meaning": "to decide on",
+        "level": "N5"
+    },
+    {
+        "romaji": "ni/e",
+        "japanese": "に/へ",
+        "meaning": "to (indicates direction / destination)",
+        "level": "N5"
+    },
+    {
+        "romaji": "no",
+        "japanese": "の",
+        "meaning": "possessive particle",
+        "level": "N5"
+    },
+    {
+        "romaji": "no desu",
+        "japanese": "のです",
+        "meaning": "to explain something; show emphasis",
+        "level": "N5"
+    },
+    {
+        "romaji": "no ga heta",
+        "japanese": "のが下手（のがへた）",
+        "meaning": "to be bad at doing something",
+        "level": "N5"
+    },
+    {
+        "romaji": "no ga jouzu",
+        "japanese": "のが上手（のがじょうず）",
+        "meaning": "to be good at",
+        "level": "N5"
+    },
+    {
+        "romaji": "no ga suki",
+        "japanese": "のが好き（のがすき）",
+        "meaning": "to like doing something",
+        "level": "N5"
+    },
+    {
+        "romaji": "no naka de [A] ga ichiban",
+        "japanese": "の中で[A]が一番（のなかで[A]がいちばん）",
+        "meaning": "out of this group, [A] is best",
+        "level": "N5"
+    },
+    {
+        "romaji": "node",
+        "japanese": "ので",
+        "meaning": "because of; given that; since ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "o / go",
+        "japanese": "お / ご",
+        "meaning": "polite marker; honorific prefix particle",
+        "level": "N5"
+    },
+    {
+        "romaji": "o / wo",
+        "japanese": "を",
+        "meaning": "object marker particle",
+        "level": "N5"
+    },
+    {
+        "romaji": "o kudasai",
+        "japanese": "をください",
+        "meaning": "please give me ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "shikashi",
+        "japanese": "しかし",
+        "meaning": "but; however ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "sore kara",
+        "japanese": "それから",
+        "meaning": "and; and then; after that; since then",
+        "level": "N5"
+    },
+    {
+        "romaji": "soshite",
+        "japanese": "そして",
+        "meaning": "and; and then; thus; and now ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "sugiru",
+        "japanese": "すぎる",
+        "meaning": "too much",
+        "level": "N5"
+    },
+    {
+        "romaji": "ta koto ga aru",
+        "japanese": "たことがある",
+        "meaning": "to have done something before",
+        "level": "N5"
+    },
+    {
+        "romaji": "tai",
+        "japanese": "たい",
+        "meaning": "want to do something",
+        "level": "N5"
+    },
+    {
+        "romaji": "tari~tari",
+        "japanese": "たり～たり",
+        "meaning": "do such things as A and B",
+        "level": "N5"
+    },
+    {
+        "romaji": "te aru",
+        "japanese": "てある",
+        "meaning": "is/has been done (resulting state)",
+        "level": "N5"
+    },
+    {
+        "romaji": "te iru",
+        "japanese": "ている",
+        "meaning": "ongoing action or current state",
+        "level": "N5"
+    },
+    {
+        "romaji": "te kara",
+        "japanese": "てから",
+        "meaning": "after doing ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "te kudasai",
+        "japanese": "てください",
+        "meaning": "please do",
+        "level": "N5"
+    },
+    {
+        "romaji": "te wa ikenai",
+        "japanese": "てはいけない",
+        "meaning": "must not; may not; cannot",
+        "level": "N5"
+    },
+    {
+        "romaji": "temo ii desu",
+        "japanese": "てもいいです",
+        "meaning": "is OK to ~; is alright to ~; may I ~?",
+        "level": "N5"
+    },
+    {
+        "romaji": "to",
+        "japanese": "と",
+        "meaning": "and; with; as; connecting particle",
+        "level": "N5"
+    },
+    {
+        "romaji": "toki",
+        "japanese": "とき",
+        "meaning": "when; at this time",
+        "level": "N5"
+    },
+    {
+        "romaji": "totemo",
+        "japanese": "とても",
+        "meaning": "very; awfully; exceedingly​",
+        "level": "N5"
+    },
+    {
+        "romaji": "tsumori",
+        "japanese": "つもり",
+        "meaning": "plan to ~; intend to ~",
+        "level": "N5"
+    },
+    {
+        "romaji": "wa - topic marker",
+        "japanese": "は",
+        "meaning": "topic marker",
+        "level": "N5"
+    },
+    {
+        "romaji": "wa ~yori... desu",
+        "japanese": "は〜より・・・です",
+        "meaning": "[Noun-1] is more ~ than [Noun-2]",
+        "level": "N5"
+    },
+    {
+        "romaji": "wa dou desu ka",
+        "japanese": "はどうですか",
+        "meaning": "how about; how is",
+        "level": "N5"
+    },
+    {
+        "romaji": "ya",
+        "japanese": "や",
+        "meaning": "and; or; connecting particle",
+        "level": "N5"
+    },
+    {
+        "romaji": "yo",
+        "japanese": "よ",
+        "meaning": "you know; emphasis (ending particle)",
+        "level": "N5"
+    },
+    {
+        "romaji": "yori ~hou ga",
+        "japanese": "より～ほうが",
+        "meaning": "[2] is more than [1]",
+        "level": "N5"
+    }
+]

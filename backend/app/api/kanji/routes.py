@@ -10,6 +10,8 @@ VALID_LEVELS = {"N1", "N2", "N3", "N4", "N5"}
 
 @kanji_bp.get("/")
 def get_all_kanji():
+    """ Get all kanji, optionally filtered by JLPT level. """
+
     level = request.args.get("level", "").upper() or None
 
     if level and level not in VALID_LEVELS:
@@ -25,47 +27,10 @@ def get_all_kanji():
     return jsonify(result), 200
 
 
-@kanji_bp.get("/random")
-def get_random_kanji():
-    level = request.args.get("level", "").upper() or None
-    try:
-        count = int(request.args.get("count", 1))
-        if count < 1 or count > 50:
-            raise ValueError
-    except ValueError:
-        abort(400, description="the count parameter must be between 1 et 50.")
-
-    if level and level not in VALID_LEVELS:
-        abort(400, description=f"Invalid level, levels available : {', '.join(sorted(VALID_LEVELS))}")
-
-    kanji_list = Kanji.get_random(level=level, count=count)
-
-    result = kanji_list_schema.dump({
-        "total": len(kanji_list),
-        "level": level,
-        "kanji": kanji_list,
-    })
-    return jsonify(result), 200
-
-
-@kanji_bp.get("/search")
-def search_kanji():
-    query = request.args.get("q", "").strip()
-    if not query:
-        abort(400, description="q parameter is required.")
-
-    kanji_list = Kanji.search(query)
-
-    result = kanji_list_schema.dump({
-        "total": len(kanji_list),
-        "level": None,
-        "kanji": kanji_list,
-    })
-    return jsonify(result), 200
-
-
 @kanji_bp.get("/<int:kanji_id>")
 def get_kanji(kanji_id):
+    """ Get a specific kanji by its ID. """
+
     kanji = Kanji.get_kanji_by_id(kanji_id)
     if kanji is None:
         abort(404, description=f"Kanji with id {kanji_id} does not exist.")

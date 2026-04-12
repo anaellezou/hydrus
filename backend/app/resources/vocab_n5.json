@@ -1,0 +1,6442 @@
+[
+    {
+        "vocab": "浴びる",
+        "reading": {
+            "romaji": "abiru",
+            "hiragana": "あびる"
+        },
+        "type": "Verb, Ichidan verb, Transitive verb",
+        "meaning": "to bathe, to shower",
+        "level": "N5"
+    },
+    {
+        "vocab": "危ない",
+        "reading": {
+            "romaji": "abunai",
+            "hiragana": "あぶない"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "dangerous",
+        "level": "N5"
+    },
+    {
+        "vocab": "あっち",
+        "reading": {
+            "romaji": "acchi",
+            "hiragana": ""
+        },
+        "type": "Pronoun",
+        "meaning": "over there",
+        "level": "N5"
+    },
+    {
+        "vocab": "あちら",
+        "reading": {
+            "romaji": "achira",
+            "hiragana": ""
+        },
+        "type": "Pronoun",
+        "meaning": "there",
+        "level": "N5"
+    },
+    {
+        "vocab": "上げる",
+        "reading": {
+            "romaji": "ageru",
+            "hiragana": "あげる"
+        },
+        "type": "Verb, Ichidan verb, Transitive verb",
+        "meaning": "to raise; to elevate; to give",
+        "level": "N5"
+    },
+    {
+        "vocab": "赤",
+        "reading": {
+            "romaji": "aka",
+            "hiragana": "あか"
+        },
+        "type": "Noun",
+        "meaning": "red; crimson; scarlet​",
+        "level": "N5"
+    },
+    {
+        "vocab": "赤い",
+        "reading": {
+            "romaji": "akai",
+            "hiragana": "あかい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "red; crimson; scarlet​",
+        "level": "N5"
+    },
+    {
+        "vocab": "明るい",
+        "reading": {
+            "romaji": "akarui",
+            "hiragana": "あかるい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "bright; light",
+        "level": "N5"
+    },
+    {
+        "vocab": "開ける",
+        "reading": {
+            "romaji": "akeru",
+            "hiragana": "あける"
+        },
+        "type": "Verb, Ichidan verb, Transitive verb",
+        "meaning": "to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock",
+        "level": "N5"
+    },
+    {
+        "vocab": "秋",
+        "reading": {
+            "romaji": "aki",
+            "hiragana": "あき"
+        },
+        "type": "Noun",
+        "meaning": "autumn; fall",
+        "level": "N5"
+    },
+    {
+        "vocab": "開く",
+        "reading": {
+            "romaji": "aku",
+            "hiragana": "あく"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to open (e.g. doors, business, etc)",
+        "level": "N5"
+    },
+    {
+        "vocab": "甘い",
+        "reading": {
+            "romaji": "amai",
+            "hiragana": "あまい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "sweet; sweet-tasting; sugary; naive; indulgent",
+        "level": "N5"
+    },
+    {
+        "vocab": "雨",
+        "reading": {
+            "romaji": "ame",
+            "hiragana": "あめ"
+        },
+        "type": "Noun",
+        "meaning": "rain",
+        "level": "N5"
+    },
+    {
+        "vocab": "飴",
+        "reading": {
+            "romaji": "ame",
+            "hiragana": "あめ"
+        },
+        "type": "Noun",
+        "meaning": "candy",
+        "level": "N5"
+    },
+    {
+        "vocab": "あなた",
+        "reading": {
+            "romaji": "anata",
+            "hiragana": ""
+        },
+        "type": "Pronoun",
+        "meaning": "you",
+        "level": "N5"
+    },
+    {
+        "vocab": "姉",
+        "reading": {
+            "romaji": "ane",
+            "hiragana": "あね"
+        },
+        "type": "Noun",
+        "meaning": "older sister; elder sister​",
+        "level": "N5"
+    },
+    {
+        "vocab": "兄",
+        "reading": {
+            "romaji": "ani",
+            "hiragana": "あに"
+        },
+        "type": "Noun",
+        "meaning": "elder brother; older brother​",
+        "level": "N5"
+    },
+    {
+        "vocab": "あの",
+        "reading": {
+            "romaji": "ano",
+            "hiragana": ""
+        },
+        "type": "Pre-noun adjectival",
+        "meaning": "that",
+        "level": "N5"
+    },
+    {
+        "vocab": "青",
+        "reading": {
+            "romaji": "ao",
+            "hiragana": "あお"
+        },
+        "type": "Noun",
+        "meaning": "blue; azure",
+        "level": "N5"
+    },
+    {
+        "vocab": "青い",
+        "reading": {
+            "romaji": "aoi",
+            "hiragana": "あおい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "blue; azure",
+        "level": "N5"
+    },
+    {
+        "vocab": "アパート",
+        "reading": {
+            "romaji": "apaato",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "apartment",
+        "level": "N5"
+    },
+    {
+        "vocab": "洗う",
+        "reading": {
+            "romaji": "arau",
+            "hiragana": "あらう"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to wash",
+        "level": "N5"
+    },
+    {
+        "vocab": "あれ",
+        "reading": {
+            "romaji": "are",
+            "hiragana": ""
+        },
+        "type": "Pronoun",
+        "meaning": "that",
+        "level": "N5"
+    },
+    {
+        "vocab": "ある",
+        "reading": {
+            "romaji": "aru",
+            "hiragana": ""
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to be, to have",
+        "level": "N5"
+    },
+    {
+        "vocab": "歩く",
+        "reading": {
+            "romaji": "aruku",
+            "hiragana": "あるく"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to walk",
+        "level": "N5"
+    },
+    {
+        "vocab": "朝",
+        "reading": {
+            "romaji": "asa",
+            "hiragana": "あさ"
+        },
+        "type": "Noun",
+        "meaning": "morning",
+        "level": "N5"
+    },
+    {
+        "vocab": "朝ご飯",
+        "reading": {
+            "romaji": "asagohan",
+            "hiragana": "あさごはん"
+        },
+        "type": "Noun",
+        "meaning": "breakfast",
+        "level": "N5"
+    },
+    {
+        "vocab": "明後日",
+        "reading": {
+            "romaji": "asatte",
+            "hiragana": "あさって"
+        },
+        "type": "Noun",
+        "meaning": "day after tomorrow",
+        "level": "N5"
+    },
+    {
+        "vocab": "足",
+        "reading": {
+            "romaji": "ashi",
+            "hiragana": "あし"
+        },
+        "type": "Noun",
+        "meaning": "foot; leg; paw; arm",
+        "level": "N5"
+    },
+    {
+        "vocab": "明日",
+        "reading": {
+            "romaji": "ashita",
+            "hiragana": "あした"
+        },
+        "type": "Noun, Temporal noun",
+        "meaning": "tomorrow",
+        "level": "N5"
+    },
+    {
+        "vocab": "遊ぶ",
+        "reading": {
+            "romaji": "asobu",
+            "hiragana": "あそぶ"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to play; to enjoy oneself",
+        "level": "N5"
+    },
+    {
+        "vocab": "あそこ",
+        "reading": {
+            "romaji": "asoko",
+            "hiragana": ""
+        },
+        "type": "Pronoun",
+        "meaning": "over there",
+        "level": "N5"
+    },
+    {
+        "vocab": "頭",
+        "reading": {
+            "romaji": "atama",
+            "hiragana": "あたま"
+        },
+        "type": "Noun",
+        "meaning": "head",
+        "level": "N5"
+    },
+    {
+        "vocab": "新しい",
+        "reading": {
+            "romaji": "atarashii",
+            "hiragana": "あたらしい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "new; novel; fresh; recent; latest",
+        "level": "N5"
+    },
+    {
+        "vocab": "暖かい",
+        "reading": {
+            "romaji": "atatakai",
+            "hiragana": "あたたかい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "warm",
+        "level": "N5"
+    },
+    {
+        "vocab": "後",
+        "reading": {
+            "romaji": "ato",
+            "hiragana": "あと"
+        },
+        "type": "Noun",
+        "meaning": "behind; after; remainder; left; also",
+        "level": "N5"
+    },
+    {
+        "vocab": "暑い",
+        "reading": {
+            "romaji": "atsui",
+            "hiragana": "あつい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "hot; sultry",
+        "level": "N5"
+    },
+    {
+        "vocab": "厚い",
+        "reading": {
+            "romaji": "atsui",
+            "hiragana": "あつい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "thick",
+        "level": "N5"
+    },
+    {
+        "vocab": "熱い",
+        "reading": {
+            "romaji": "atsui",
+            "hiragana": "あつい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "hot",
+        "level": "N5"
+    },
+    {
+        "vocab": "会う",
+        "reading": {
+            "romaji": "au",
+            "hiragana": "あう"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to meet; to encounter; to see",
+        "level": "N5"
+    },
+    {
+        "vocab": "晩ご飯",
+        "reading": {
+            "romaji": "bangohan",
+            "hiragana": "ばんごはん"
+        },
+        "type": "Noun",
+        "meaning": "dinner; evening meal",
+        "level": "N5"
+    },
+    {
+        "vocab": "番号",
+        "reading": {
+            "romaji": "bangou",
+            "hiragana": "ばんごう"
+        },
+        "type": "Noun",
+        "meaning": "number",
+        "level": "N5"
+    },
+    {
+        "vocab": "バス",
+        "reading": {
+            "romaji": "basu",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "bus",
+        "level": "N5"
+    },
+    {
+        "vocab": "バター",
+        "reading": {
+            "romaji": "bataa",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "butter​",
+        "level": "N5"
+    },
+    {
+        "vocab": "ベッド",
+        "reading": {
+            "romaji": "beddo",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "bed",
+        "level": "N5"
+    },
+    {
+        "vocab": "勉強",
+        "reading": {
+            "romaji": "benkyou",
+            "hiragana": "べんきょう"
+        },
+        "type": "Noun, Suru verb",
+        "meaning": "to study",
+        "level": "N5"
+    },
+    {
+        "vocab": "便利",
+        "reading": {
+            "romaji": "benri",
+            "hiragana": "べんり"
+        },
+        "type": "な-adjective",
+        "meaning": "convenient; handy; useful",
+        "level": "N5"
+    },
+    {
+        "vocab": "ボールペン",
+        "reading": {
+            "romaji": "boorupen",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "ball-point pen",
+        "level": "N5"
+    },
+    {
+        "vocab": "ボタン",
+        "reading": {
+            "romaji": "botan",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "button",
+        "level": "N5"
+    },
+    {
+        "vocab": "帽子",
+        "reading": {
+            "romaji": "boushi",
+            "hiragana": "ぼうし"
+        },
+        "type": "Noun",
+        "meaning": "hat; cap",
+        "level": "N5"
+    },
+    {
+        "vocab": "文章",
+        "reading": {
+            "romaji": "bunshou",
+            "hiragana": "ぶんしょう"
+        },
+        "type": "Noun",
+        "meaning": "sentence",
+        "level": "N5"
+    },
+    {
+        "vocab": "豚肉",
+        "reading": {
+            "romaji": "butaniku",
+            "hiragana": "ぶたにく"
+        },
+        "type": "Noun",
+        "meaning": "pork",
+        "level": "N5"
+    },
+    {
+        "vocab": "病院",
+        "reading": {
+            "romaji": "byouin",
+            "hiragana": "びょういん"
+        },
+        "type": "Noun",
+        "meaning": "hospital",
+        "level": "N5"
+    },
+    {
+        "vocab": "病気",
+        "reading": {
+            "romaji": "byouki",
+            "hiragana": "びょうき"
+        },
+        "type": "Noun",
+        "meaning": "illness; disease; sickness",
+        "level": "N5"
+    },
+    {
+        "vocab": "茶色",
+        "reading": {
+            "romaji": "chairo",
+            "hiragana": "ちゃいろ"
+        },
+        "type": "Noun",
+        "meaning": "brown",
+        "level": "N5"
+    },
+    {
+        "vocab": "茶碗",
+        "reading": {
+            "romaji": "chawan",
+            "hiragana": "ちゃわん"
+        },
+        "type": "Noun",
+        "meaning": "rice bowl; tea cup; teacup",
+        "level": "N5"
+    },
+    {
+        "vocab": "父",
+        "reading": {
+            "romaji": "chichi",
+            "hiragana": "ちち"
+        },
+        "type": "Noun",
+        "meaning": "father",
+        "level": "N5"
+    },
+    {
+        "vocab": "違う",
+        "reading": {
+            "romaji": "chigau",
+            "hiragana": "ちがう"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to differ",
+        "level": "N5"
+    },
+    {
+        "vocab": "小さい",
+        "reading": {
+            "romaji": "chiisai",
+            "hiragana": "ちいさい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "small; little; tiny",
+        "level": "N5"
+    },
+    {
+        "vocab": "小さな",
+        "reading": {
+            "romaji": "chiisana",
+            "hiragana": "ちいさな"
+        },
+        "type": "Pre-noun adjectival",
+        "meaning": "small; little; tiny​",
+        "level": "N5"
+    },
+    {
+        "vocab": "近い",
+        "reading": {
+            "romaji": "chikai",
+            "hiragana": "ちかい"
+        },
+        "type": "い-adjective",
+        "meaning": "near; close",
+        "level": "N5"
+    },
+    {
+        "vocab": "地下鉄",
+        "reading": {
+            "romaji": "chikatetsu",
+            "hiragana": "ちかてつ"
+        },
+        "type": "Noun",
+        "meaning": "subway; underground train",
+        "level": "N5"
+    },
+    {
+        "vocab": "地図",
+        "reading": {
+            "romaji": "chizu",
+            "hiragana": "ちず"
+        },
+        "type": "Noun",
+        "meaning": "map",
+        "level": "N5"
+    },
+    {
+        "vocab": "ちょっと",
+        "reading": {
+            "romaji": "chotto",
+            "hiragana": ""
+        },
+        "type": "Adverb",
+        "meaning": "a little",
+        "level": "N5"
+    },
+    {
+        "vocab": "丁度",
+        "reading": {
+            "romaji": "choudo",
+            "hiragana": "ちょうど"
+        },
+        "type": "Adverb",
+        "meaning": "exactly",
+        "level": "N5"
+    },
+    {
+        "vocab": "台所",
+        "reading": {
+            "romaji": "daidokoro",
+            "hiragana": "だいどころ"
+        },
+        "type": "Noun",
+        "meaning": "kitchen",
+        "level": "N5"
+    },
+    {
+        "vocab": "大学",
+        "reading": {
+            "romaji": "daigaku",
+            "hiragana": "だいがく"
+        },
+        "type": "Noun",
+        "meaning": "university; college",
+        "level": "N5"
+    },
+    {
+        "vocab": "大丈夫",
+        "reading": {
+            "romaji": "daijoubu",
+            "hiragana": "だいじょうぶ"
+        },
+        "type": "Adjective, な-adjective, Adverb",
+        "meaning": "OK; okay; alright; problem free",
+        "level": "N5"
+    },
+    {
+        "vocab": "大好き",
+        "reading": {
+            "romaji": "daisuki",
+            "hiragana": "だいすき"
+        },
+        "type": "Adjective, な-adjective",
+        "meaning": "love; like; like very much",
+        "level": "N5"
+    },
+    {
+        "vocab": "だんだん",
+        "reading": {
+            "romaji": "dandan",
+            "hiragana": ""
+        },
+        "type": "Adverb",
+        "meaning": "gradually",
+        "level": "N5"
+    },
+    {
+        "vocab": "誰",
+        "reading": {
+            "romaji": "dare",
+            "hiragana": "だれ"
+        },
+        "type": "Pronoun",
+        "meaning": "who",
+        "level": "N5"
+    },
+    {
+        "vocab": "誰か",
+        "reading": {
+            "romaji": "dareka",
+            "hiragana": "だれか"
+        },
+        "type": "Pronoun",
+        "meaning": "someone; somebody",
+        "level": "N5"
+    },
+    {
+        "vocab": "出す",
+        "reading": {
+            "romaji": "dasu",
+            "hiragana": "だす"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to take out; to get out; to put out; to reveal",
+        "level": "N5"
+    },
+    {
+        "vocab": "出口",
+        "reading": {
+            "romaji": "deguchi",
+            "hiragana": "でぐち"
+        },
+        "type": "Noun",
+        "meaning": "exit; gateway; way out",
+        "level": "N5"
+    },
+    {
+        "vocab": "出かける",
+        "reading": {
+            "romaji": "dekakeru",
+            "hiragana": "でかける"
+        },
+        "type": "Verb, Ichidan verb, Intransitive verb",
+        "meaning": "to go out; to leave; to depart",
+        "level": "N5"
+    },
+    {
+        "vocab": "電気",
+        "reading": {
+            "romaji": "denki",
+            "hiragana": "でんき"
+        },
+        "type": "Noun",
+        "meaning": "electricity",
+        "level": "N5"
+    },
+    {
+        "vocab": "電車",
+        "reading": {
+            "romaji": "densha",
+            "hiragana": "でんしゃ"
+        },
+        "type": "Noun",
+        "meaning": "train; electric train",
+        "level": "N5"
+    },
+    {
+        "vocab": "電話",
+        "reading": {
+            "romaji": "denwa",
+            "hiragana": "でんわ"
+        },
+        "type": "Noun, Verb, Suru verb",
+        "meaning": "telephone (call / device)l; phone call",
+        "level": "N5"
+    },
+    {
+        "vocab": "デパート",
+        "reading": {
+            "romaji": "depaato",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "department store",
+        "level": "N5"
+    },
+    {
+        "vocab": "出る",
+        "reading": {
+            "romaji": "deru",
+            "hiragana": "でる"
+        },
+        "type": "Verb, Ichidan verb, Intransitive verb",
+        "meaning": "to leave; to exit; to appear; to go out",
+        "level": "N5"
+    },
+    {
+        "vocab": "ドア",
+        "reading": {
+            "romaji": "doa",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "door",
+        "level": "N5"
+    },
+    {
+        "vocab": "どっち",
+        "reading": {
+            "romaji": "docchi",
+            "hiragana": ""
+        },
+        "type": "Pronoun",
+        "meaning": "which; which one",
+        "level": "N5"
+    },
+    {
+        "vocab": "どちら",
+        "reading": {
+            "romaji": "dochira",
+            "hiragana": ""
+        },
+        "type": "Pronoun",
+        "meaning": "which of two",
+        "level": "N5"
+    },
+    {
+        "vocab": "どこ",
+        "reading": {
+            "romaji": "doko",
+            "hiragana": ""
+        },
+        "type": "Pronoun",
+        "meaning": "where; what place​",
+        "level": "N5"
+    },
+    {
+        "vocab": "どなた",
+        "reading": {
+            "romaji": "donata",
+            "hiragana": ""
+        },
+        "type": "Noun",
+        "meaning": "who",
+        "level": "N5"
+    },
+    {
+        "vocab": "どの",
+        "reading": {
+            "romaji": "dono",
+            "hiragana": ""
+        },
+        "type": "Pre-noun adjectival",
+        "meaning": "which",
+        "level": "N5"
+    },
+    {
+        "vocab": "どれ",
+        "reading": {
+            "romaji": "dore",
+            "hiragana": ""
+        },
+        "type": "Pronoun",
+        "meaning": "which (of three or more)​",
+        "level": "N5"
+    },
+    {
+        "vocab": "どう",
+        "reading": {
+            "romaji": "dou",
+            "hiragana": ""
+        },
+        "type": "Adverb",
+        "meaning": "how; in what way; how about​",
+        "level": "N5"
+    },
+    {
+        "vocab": "動物",
+        "reading": {
+            "romaji": "doubutsu",
+            "hiragana": "どうぶつ"
+        },
+        "type": "Noun",
+        "meaning": "animal",
+        "level": "N5"
+    },
+    {
+        "vocab": "どうも",
+        "reading": {
+            "romaji": "doumo",
+            "hiragana": ""
+        },
+        "type": "Adverb",
+        "meaning": "thank you; thanks",
+        "level": "N5"
+    },
+    {
+        "vocab": "どうぞ",
+        "reading": {
+            "romaji": "douzo",
+            "hiragana": ""
+        },
+        "type": "Adverb",
+        "meaning": "please",
+        "level": "N5"
+    },
+    {
+        "vocab": "土曜日",
+        "reading": {
+            "romaji": "doyoubi",
+            "hiragana": "どようび"
+        },
+        "type": "Noun",
+        "meaning": "Saturday",
+        "level": "N5"
+    },
+    {
+        "vocab": "絵",
+        "reading": {
+            "romaji": "e",
+            "hiragana": "え"
+        },
+        "type": "Noun",
+        "meaning": "picture",
+        "level": "N5"
+    },
+    {
+        "vocab": "ええ",
+        "reading": {
+            "romaji": "ee",
+            "hiragana": ""
+        },
+        "type": "Noun",
+        "meaning": "yes; that is correct; right",
+        "level": "N5"
+    },
+    {
+        "vocab": "映画",
+        "reading": {
+            "romaji": "eiga",
+            "hiragana": "えいが"
+        },
+        "type": "Noun",
+        "meaning": "movie; film",
+        "level": "N5"
+    },
+    {
+        "vocab": "映画館",
+        "reading": {
+            "romaji": "eigakan",
+            "hiragana": "えいがかん"
+        },
+        "type": "Noun",
+        "meaning": "movie theater; cinema",
+        "level": "N5"
+    },
+    {
+        "vocab": "英語",
+        "reading": {
+            "romaji": "eigo",
+            "hiragana": "えいご"
+        },
+        "type": "Noun",
+        "meaning": "English language",
+        "level": "N5"
+    },
+    {
+        "vocab": "駅",
+        "reading": {
+            "romaji": "eki",
+            "hiragana": "えき"
+        },
+        "type": "Noun",
+        "meaning": "station",
+        "level": "N5"
+    },
+    {
+        "vocab": "鉛筆",
+        "reading": {
+            "romaji": "enpitsu",
+            "hiragana": "えんぴつ"
+        },
+        "type": "Noun",
+        "meaning": "pencil",
+        "level": "N5"
+    },
+    {
+        "vocab": "エレベーター",
+        "reading": {
+            "romaji": "erebeetaa",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "elevator",
+        "level": "N5"
+    },
+    {
+        "vocab": "フィルム",
+        "reading": {
+            "romaji": "firumu",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "film",
+        "level": "N5"
+    },
+    {
+        "vocab": "フォーク",
+        "reading": {
+            "romaji": "fooku",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "fork",
+        "level": "N5"
+    },
+    {
+        "vocab": "服",
+        "reading": {
+            "romaji": "fuku",
+            "hiragana": "ふく"
+        },
+        "type": "Noun",
+        "meaning": "clothes",
+        "level": "N5"
+    },
+    {
+        "vocab": "吹く",
+        "reading": {
+            "romaji": "fuku",
+            "hiragana": "ふく"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to blow (of the wind)",
+        "level": "N5"
+    },
+    {
+        "vocab": "降る",
+        "reading": {
+            "romaji": "furu",
+            "hiragana": "ふる"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to fall",
+        "level": "N5"
+    },
+    {
+        "vocab": "古い",
+        "reading": {
+            "romaji": "furui",
+            "hiragana": "ふるい"
+        },
+        "type": "い-adjective",
+        "meaning": "old (not used for people)",
+        "level": "N5"
+    },
+    {
+        "vocab": "二人",
+        "reading": {
+            "romaji": "futari",
+            "hiragana": "ふたり"
+        },
+        "type": "Noun",
+        "meaning": "two people; pair; couple",
+        "level": "N5"
+    },
+    {
+        "vocab": "二つ",
+        "reading": {
+            "romaji": "futatsu",
+            "hiragana": "ふたつ"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "two; 2",
+        "level": "N5"
+    },
+    {
+        "vocab": "太い",
+        "reading": {
+            "romaji": "futoi",
+            "hiragana": "ふとい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "fat; thick",
+        "level": "N5"
+    },
+    {
+        "vocab": "二日",
+        "reading": {
+            "romaji": "futsuka",
+            "hiragana": "ふつか"
+        },
+        "type": "Noun",
+        "meaning": "the second day of the month / 2 days",
+        "level": "N5"
+    },
+    {
+        "vocab": "封筒",
+        "reading": {
+            "romaji": "fuutou",
+            "hiragana": "ふうとう"
+        },
+        "type": "Noun",
+        "meaning": "envelope",
+        "level": "N5"
+    },
+    {
+        "vocab": "冬",
+        "reading": {
+            "romaji": "fuyu",
+            "hiragana": "ふゆ"
+        },
+        "type": "Noun",
+        "meaning": "winter",
+        "level": "N5"
+    },
+    {
+        "vocab": "外国",
+        "reading": {
+            "romaji": "gaikoku",
+            "hiragana": "がいこく"
+        },
+        "type": "Noun",
+        "meaning": "foreign country",
+        "level": "N5"
+    },
+    {
+        "vocab": "外国人",
+        "reading": {
+            "romaji": "gaikokujin",
+            "hiragana": "がいこくじん"
+        },
+        "type": "Noun",
+        "meaning": "foreigner; foreign citizen; foreign national; alien; non-Japanese",
+        "level": "N5"
+    },
+    {
+        "vocab": "学校",
+        "reading": {
+            "romaji": "gakkou",
+            "hiragana": "がっこう"
+        },
+        "type": "Noun",
+        "meaning": "school",
+        "level": "N5"
+    },
+    {
+        "vocab": "学生",
+        "reading": {
+            "romaji": "gakusei",
+            "hiragana": "がくせい"
+        },
+        "type": "Noun",
+        "meaning": "student",
+        "level": "N5"
+    },
+    {
+        "vocab": "玄関",
+        "reading": {
+            "romaji": "genkan",
+            "hiragana": "げんかん"
+        },
+        "type": "Noun",
+        "meaning": "entrance",
+        "level": "N5"
+    },
+    {
+        "vocab": "元気",
+        "reading": {
+            "romaji": "genki",
+            "hiragana": "げんき"
+        },
+        "type": "Noun, Adjective, な-adjective",
+        "meaning": "lively; full of spirit; energetic; healthy",
+        "level": "N5"
+    },
+    {
+        "vocab": "月曜日",
+        "reading": {
+            "romaji": "getsuyoubi",
+            "hiragana": "げつようび"
+        },
+        "type": "Noun",
+        "meaning": "Monday",
+        "level": "N5"
+    },
+    {
+        "vocab": "銀行",
+        "reading": {
+            "romaji": "ginkou",
+            "hiragana": "ぎんこう"
+        },
+        "type": "Noun",
+        "meaning": "bank",
+        "level": "N5"
+    },
+    {
+        "vocab": "ギター",
+        "reading": {
+            "romaji": "gitaa",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "guitar",
+        "level": "N5"
+    },
+    {
+        "vocab": "五",
+        "reading": {
+            "romaji": "go",
+            "hiragana": "ご"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "five; 5",
+        "level": "N5"
+    },
+    {
+        "vocab": "午後",
+        "reading": {
+            "romaji": "gogo",
+            "hiragana": "ごご"
+        },
+        "type": "Noun",
+        "meaning": "afternoon; p.m.",
+        "level": "N5"
+    },
+    {
+        "vocab": "ご飯",
+        "reading": {
+            "romaji": "gohan",
+            "hiragana": "ごはん"
+        },
+        "type": "Noun",
+        "meaning": "cooked rice, meal",
+        "level": "N5"
+    },
+    {
+        "vocab": "午前",
+        "reading": {
+            "romaji": "gozen",
+            "hiragana": "ごぜん"
+        },
+        "type": "Noun",
+        "meaning": "morning; a.m.",
+        "level": "N5"
+    },
+    {
+        "vocab": "グラム",
+        "reading": {
+            "romaji": "guramu",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "gram",
+        "level": "N5"
+    },
+    {
+        "vocab": "牛肉",
+        "reading": {
+            "romaji": "gyuuniku",
+            "hiragana": "ぎゅうにく"
+        },
+        "type": "Noun",
+        "meaning": "beef",
+        "level": "N5"
+    },
+    {
+        "vocab": "牛乳",
+        "reading": {
+            "romaji": "gyuunyuu",
+            "hiragana": "ぎゅうにゅう"
+        },
+        "type": "Noun",
+        "meaning": "(cow's) milk",
+        "level": "N5"
+    },
+    {
+        "vocab": "歯",
+        "reading": {
+            "romaji": "ha",
+            "hiragana": "は"
+        },
+        "type": "Noun",
+        "meaning": "tooth",
+        "level": "N5"
+    },
+    {
+        "vocab": "八",
+        "reading": {
+            "romaji": "hachi",
+            "hiragana": "はち"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "eight: 8",
+        "level": "N5"
+    },
+    {
+        "vocab": "葉書",
+        "reading": {
+            "romaji": "hagaki",
+            "hiragana": "はがき"
+        },
+        "type": "Noun",
+        "meaning": "postcard",
+        "level": "N5"
+    },
+    {
+        "vocab": "母",
+        "reading": {
+            "romaji": "haha",
+            "hiragana": "はは"
+        },
+        "type": "Noun",
+        "meaning": "mother",
+        "level": "N5"
+    },
+    {
+        "vocab": "はい",
+        "reading": {
+            "romaji": "hai",
+            "hiragana": ""
+        },
+        "type": "Noun",
+        "meaning": "yes; that is correct​",
+        "level": "N5"
+    },
+    {
+        "vocab": "入る",
+        "reading": {
+            "romaji": "hairu",
+            "hiragana": "はいる"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to enter; to go into",
+        "level": "N5"
+    },
+    {
+        "vocab": "灰皿",
+        "reading": {
+            "romaji": "haizara",
+            "hiragana": "はいざら"
+        },
+        "type": "Noun",
+        "meaning": "ashtray",
+        "level": "N5"
+    },
+    {
+        "vocab": "始まる",
+        "reading": {
+            "romaji": "hajimaru",
+            "hiragana": "はじまる"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to begin",
+        "level": "N5"
+    },
+    {
+        "vocab": "初めて",
+        "reading": {
+            "romaji": "hajimete",
+            "hiragana": "はじめて"
+        },
+        "type": "Adverb",
+        "meaning": "for the first time",
+        "level": "N5"
+    },
+    {
+        "vocab": "箱",
+        "reading": {
+            "romaji": "hako",
+            "hiragana": "はこ"
+        },
+        "type": "Noun",
+        "meaning": "box; crate",
+        "level": "N5"
+    },
+    {
+        "vocab": "履く",
+        "reading": {
+            "romaji": "haku",
+            "hiragana": "はく"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to wear, to put on trousers",
+        "level": "N5"
+    },
+    {
+        "vocab": "半",
+        "reading": {
+            "romaji": "han",
+            "hiragana": "はん"
+        },
+        "type": "Noun",
+        "meaning": "half; semi-; half-past",
+        "level": "N5"
+    },
+    {
+        "vocab": "花",
+        "reading": {
+            "romaji": "hana",
+            "hiragana": "はな"
+        },
+        "type": "Noun",
+        "meaning": "flower",
+        "level": "N5"
+    },
+    {
+        "vocab": "鼻",
+        "reading": {
+            "romaji": "hana",
+            "hiragana": "はな"
+        },
+        "type": "Noun",
+        "meaning": "nose",
+        "level": "N5"
+    },
+    {
+        "vocab": "話",
+        "reading": {
+            "romaji": "hanashi",
+            "hiragana": "はなし"
+        },
+        "type": "Noun",
+        "meaning": "talk; speech; chat; conversation​",
+        "level": "N5"
+    },
+    {
+        "vocab": "話す",
+        "reading": {
+            "romaji": "hanasu",
+            "hiragana": "はなす"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to speak; to talk; to converse",
+        "level": "N5"
+    },
+    {
+        "vocab": "半分",
+        "reading": {
+            "romaji": "hanbun",
+            "hiragana": "はんぶん"
+        },
+        "type": "Noun",
+        "meaning": "half",
+        "level": "N5"
+    },
+    {
+        "vocab": "ハンカチ",
+        "reading": {
+            "romaji": "hankachi",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "handkerchief​",
+        "level": "N5"
+    },
+    {
+        "vocab": "晴れ",
+        "reading": {
+            "romaji": "hare",
+            "hiragana": "はれ"
+        },
+        "type": "Noun",
+        "meaning": "clear weather",
+        "level": "N5"
+    },
+    {
+        "vocab": "晴れる",
+        "reading": {
+            "romaji": "hareru",
+            "hiragana": "はれる"
+        },
+        "type": "Verb, Ichidan verb, Intransitive verb",
+        "meaning": "to be sunny",
+        "level": "N5"
+    },
+    {
+        "vocab": "春",
+        "reading": {
+            "romaji": "haru",
+            "hiragana": "はる"
+        },
+        "type": "Noun",
+        "meaning": "spring; springtime",
+        "level": "N5"
+    },
+    {
+        "vocab": "貼る",
+        "reading": {
+            "romaji": "haru",
+            "hiragana": "はる"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to stick; to paste",
+        "level": "N5"
+    },
+    {
+        "vocab": "箸",
+        "reading": {
+            "romaji": "hashi",
+            "hiragana": "はし"
+        },
+        "type": "Noun",
+        "meaning": "chopsticks",
+        "level": "N5"
+    },
+    {
+        "vocab": "橋",
+        "reading": {
+            "romaji": "hashi",
+            "hiragana": "はし"
+        },
+        "type": "Noun",
+        "meaning": "bridge",
+        "level": "N5"
+    },
+    {
+        "vocab": "走る",
+        "reading": {
+            "romaji": "hashiru",
+            "hiragana": "はしる"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to run",
+        "level": "N5"
+    },
+    {
+        "vocab": "二十歳",
+        "reading": {
+            "romaji": "hatachi",
+            "hiragana": "はたち"
+        },
+        "type": "Noun",
+        "meaning": "20 years old; twenty years old",
+        "level": "N5"
+    },
+    {
+        "vocab": "働く",
+        "reading": {
+            "romaji": "hataraku",
+            "hiragana": "はたらく"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to work",
+        "level": "N5"
+    },
+    {
+        "vocab": "二十日",
+        "reading": {
+            "romaji": "hatsuka",
+            "hiragana": "はつか"
+        },
+        "type": "Noun",
+        "meaning": "twentieth day of the month / 20 days",
+        "level": "N5"
+    },
+    {
+        "vocab": "速い",
+        "reading": {
+            "romaji": "hayai",
+            "hiragana": "はやい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "fast; quick; hasty; brisk",
+        "level": "N5"
+    },
+    {
+        "vocab": "早い",
+        "reading": {
+            "romaji": "hayai",
+            "hiragana": "はやい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "fast; early",
+        "level": "N5"
+    },
+    {
+        "vocab": "辺",
+        "reading": {
+            "romaji": "hen",
+            "hiragana": "へん"
+        },
+        "type": "Noun",
+        "meaning": "area",
+        "level": "N5"
+    },
+    {
+        "vocab": "下手",
+        "reading": {
+            "romaji": "heta",
+            "hiragana": "へた"
+        },
+        "type": "Noun, Adjective, な-adjective",
+        "meaning": "unskillful; poor; awkward​",
+        "level": "N5"
+    },
+    {
+        "vocab": "部屋",
+        "reading": {
+            "romaji": "heya",
+            "hiragana": "へや"
+        },
+        "type": "Noun",
+        "meaning": "room",
+        "level": "N5"
+    },
+    {
+        "vocab": "左",
+        "reading": {
+            "romaji": "hidari",
+            "hiragana": "ひだり"
+        },
+        "type": "Noun",
+        "meaning": "left; left hand side",
+        "level": "N5"
+    },
+    {
+        "vocab": "東",
+        "reading": {
+            "romaji": "higashi",
+            "hiragana": "ひがし"
+        },
+        "type": "Noun",
+        "meaning": "east",
+        "level": "N5"
+    },
+    {
+        "vocab": "飛行機",
+        "reading": {
+            "romaji": "hikouki",
+            "hiragana": "ひこうき"
+        },
+        "type": "Noun",
+        "meaning": "airplane; aircraft",
+        "level": "N5"
+    },
+    {
+        "vocab": "引く",
+        "reading": {
+            "romaji": "hiku",
+            "hiragana": "ひく"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to pull",
+        "level": "N5"
+    },
+    {
+        "vocab": "弾く",
+        "reading": {
+            "romaji": "hiku",
+            "hiragana": "ひく"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to play",
+        "level": "N5"
+    },
+    {
+        "vocab": "低い",
+        "reading": {
+            "romaji": "hikui",
+            "hiragana": "ひくい"
+        },
+        "type": "い-adjective",
+        "meaning": "short,low",
+        "level": "N5"
+    },
+    {
+        "vocab": "暇",
+        "reading": {
+            "romaji": "hima",
+            "hiragana": "ひま"
+        },
+        "type": "Noun, な-adjective",
+        "meaning": "free time",
+        "level": "N5"
+    },
+    {
+        "vocab": "広い",
+        "reading": {
+            "romaji": "hiroi",
+            "hiragana": "ひろい"
+        },
+        "type": "い-adjective",
+        "meaning": "spacious; vast; wide",
+        "level": "N5"
+    },
+    {
+        "vocab": "昼",
+        "reading": {
+            "romaji": "hiru",
+            "hiragana": "ひる"
+        },
+        "type": "Noun",
+        "meaning": "noon; midday; daytime; lunch",
+        "level": "N5"
+    },
+    {
+        "vocab": "昼ご飯",
+        "reading": {
+            "romaji": "hirugohan",
+            "hiragana": "ひるごはん"
+        },
+        "type": "Noun",
+        "meaning": "lunch",
+        "level": "N5"
+    },
+    {
+        "vocab": "人",
+        "reading": {
+            "romaji": "hito",
+            "hiragana": "ひと"
+        },
+        "type": "Noun",
+        "meaning": "person; human",
+        "level": "N5"
+    },
+    {
+        "vocab": "一人",
+        "reading": {
+            "romaji": "hitori",
+            "hiragana": "ひとり"
+        },
+        "type": "Noun, Adverb",
+        "meaning": "one person​; alone; single",
+        "level": "N5"
+    },
+    {
+        "vocab": "一つ",
+        "reading": {
+            "romaji": "hitotsu",
+            "hiragana": "ひとつ"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "one thing; only",
+        "level": "N5"
+    },
+    {
+        "vocab": "ほか",
+        "reading": {
+            "romaji": "hoka",
+            "hiragana": ""
+        },
+        "type": "Noun",
+        "meaning": "other (place, thing, person); the rest",
+        "level": "N5"
+    },
+    {
+        "vocab": "本",
+        "reading": {
+            "romaji": "hon",
+            "hiragana": "ほん"
+        },
+        "type": "Noun",
+        "meaning": "book; volume; script",
+        "level": "N5"
+    },
+    {
+        "vocab": "本棚",
+        "reading": {
+            "romaji": "hondana",
+            "hiragana": "ほんだな"
+        },
+        "type": "Noun",
+        "meaning": "bookshelf; bookcase",
+        "level": "N5"
+    },
+    {
+        "vocab": "本当",
+        "reading": {
+            "romaji": "hontou",
+            "hiragana": "ほんとう"
+        },
+        "type": "Noun, Adjective, な-adjective",
+        "meaning": "truth; reality; actuality; fact",
+        "level": "N5"
+    },
+    {
+        "vocab": "欲しい",
+        "reading": {
+            "romaji": "hoshii",
+            "hiragana": "ほしい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "want",
+        "level": "N5"
+    },
+    {
+        "vocab": "細い",
+        "reading": {
+            "romaji": "hosoi",
+            "hiragana": "ほそい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "thin; slender",
+        "level": "N5"
+    },
+    {
+        "vocab": "ホテル",
+        "reading": {
+            "romaji": "hoteru",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "hotel",
+        "level": "N5"
+    },
+    {
+        "vocab": "百",
+        "reading": {
+            "romaji": "hyaku",
+            "hiragana": "ひゃく"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "100; hundred",
+        "level": "N5"
+    },
+    {
+        "vocab": "一",
+        "reading": {
+            "romaji": "ichi",
+            "hiragana": "いち"
+        },
+        "type": "Noun, Prefix, Suffix, Numeric",
+        "meaning": "one; best; first; foremost; start",
+        "level": "N5"
+    },
+    {
+        "vocab": "一番",
+        "reading": {
+            "romaji": "ichiban",
+            "hiragana": "いちばん"
+        },
+        "type": "Noun, Adverb",
+        "meaning": "number one; first; 1st, first place​; best; most​",
+        "level": "N5"
+    },
+    {
+        "vocab": "一日",
+        "reading": {
+            "romaji": "ichinichi",
+            "hiragana": "いちにち"
+        },
+        "type": "Noun, Adverbial Noun",
+        "meaning": "one day, all day",
+        "level": "N5"
+    },
+    {
+        "vocab": "家",
+        "reading": {
+            "romaji": "ie",
+            "hiragana": "いえ"
+        },
+        "type": "Noun",
+        "meaning": "house, residence, family",
+        "level": "N5"
+    },
+    {
+        "vocab": "いかが",
+        "reading": {
+            "romaji": "ikaga",
+            "hiragana": ""
+        },
+        "type": "Adverb",
+        "meaning": "how; in what way; how about​",
+        "level": "N5"
+    },
+    {
+        "vocab": "池",
+        "reading": {
+            "romaji": "ike",
+            "hiragana": "いけ"
+        },
+        "type": "Noun",
+        "meaning": "pond",
+        "level": "N5"
+    },
+    {
+        "vocab": "行く",
+        "reading": {
+            "romaji": "iku",
+            "hiragana": "いく"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to go; to move",
+        "level": "N5"
+    },
+    {
+        "vocab": "いくら",
+        "reading": {
+            "romaji": "ikura",
+            "hiragana": ""
+        },
+        "type": "Noun, Adverb",
+        "meaning": "how much?; how many?​",
+        "level": "N5"
+    },
+    {
+        "vocab": "いくつ",
+        "reading": {
+            "romaji": "ikutsu",
+            "hiragana": ""
+        },
+        "type": "Adverb",
+        "meaning": "how many?,how old?",
+        "level": "N5"
+    },
+    {
+        "vocab": "今",
+        "reading": {
+            "romaji": "ima",
+            "hiragana": "いま"
+        },
+        "type": "Noun, Adverbial Noun",
+        "meaning": "now; the present time; soon",
+        "level": "N5"
+    },
+    {
+        "vocab": "意味",
+        "reading": {
+            "romaji": "imi",
+            "hiragana": "いみ"
+        },
+        "type": "Noun",
+        "meaning": "meaning; significance; sense",
+        "level": "N5"
+    },
+    {
+        "vocab": "妹",
+        "reading": {
+            "romaji": "imouto",
+            "hiragana": "いもうと"
+        },
+        "type": "Noun",
+        "meaning": "younger sister",
+        "level": "N5"
+    },
+    {
+        "vocab": "犬",
+        "reading": {
+            "romaji": "inu",
+            "hiragana": "いぬ"
+        },
+        "type": "Noun",
+        "meaning": "dog",
+        "level": "N5"
+    },
+    {
+        "vocab": "入れる",
+        "reading": {
+            "romaji": "ireru",
+            "hiragana": "いれる"
+        },
+        "type": "Verb, Ichidan verb, Transitive verb",
+        "meaning": "to put in; to let in; to take in; to bring in; to insert; to install",
+        "level": "N5"
+    },
+    {
+        "vocab": "入口",
+        "reading": {
+            "romaji": "iriguchi",
+            "hiragana": "いりぐち"
+        },
+        "type": "Noun",
+        "meaning": "entrance; entry; gate",
+        "level": "N5"
+    },
+    {
+        "vocab": "色",
+        "reading": {
+            "romaji": "iro",
+            "hiragana": "いろ"
+        },
+        "type": "Noun",
+        "meaning": "colour; color",
+        "level": "N5"
+    },
+    {
+        "vocab": "色々",
+        "reading": {
+            "romaji": "iroiro",
+            "hiragana": "いろいろ"
+        },
+        "type": "Noun, Adjective, な-adjective, Adverb",
+        "meaning": "various",
+        "level": "N5"
+    },
+    {
+        "vocab": "要る",
+        "reading": {
+            "romaji": "iru",
+            "hiragana": "いる"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to be needed",
+        "level": "N5"
+    },
+    {
+        "vocab": "居る",
+        "reading": {
+            "romaji": "iru",
+            "hiragana": "いる"
+        },
+        "type": "Verb, Ichidan verb, Intransitive verb",
+        "meaning": "to be, to have",
+        "level": "N5"
+    },
+    {
+        "vocab": "医者",
+        "reading": {
+            "romaji": "isha",
+            "hiragana": "いしゃ"
+        },
+        "type": "Noun",
+        "meaning": "(medical) doctor; physician",
+        "level": "N5"
+    },
+    {
+        "vocab": "忙しい",
+        "reading": {
+            "romaji": "isogashii",
+            "hiragana": "いそがしい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "busy",
+        "level": "N5"
+    },
+    {
+        "vocab": "一緒",
+        "reading": {
+            "romaji": "issho",
+            "hiragana": "いっしょ"
+        },
+        "type": "Noun",
+        "meaning": "together; at the same time; same; identical",
+        "level": "N5"
+    },
+    {
+        "vocab": "椅子",
+        "reading": {
+            "romaji": "isu",
+            "hiragana": "いす"
+        },
+        "type": "Noun",
+        "meaning": "chair",
+        "level": "N5"
+    },
+    {
+        "vocab": "痛い",
+        "reading": {
+            "romaji": "itai",
+            "hiragana": "いたい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "painful; sore​",
+        "level": "N5"
+    },
+    {
+        "vocab": "いつ",
+        "reading": {
+            "romaji": "itsu",
+            "hiragana": ""
+        },
+        "type": "Pronoun",
+        "meaning": "when",
+        "level": "N5"
+    },
+    {
+        "vocab": "五日",
+        "reading": {
+            "romaji": "itsuka",
+            "hiragana": "いつか"
+        },
+        "type": "Noun",
+        "meaning": "the fifth day of the month / 5 days",
+        "level": "N5"
+    },
+    {
+        "vocab": "五つ",
+        "reading": {
+            "romaji": "itsutsu",
+            "hiragana": "いつつ"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "five; 5",
+        "level": "N5"
+    },
+    {
+        "vocab": "言う",
+        "reading": {
+            "romaji": "iu",
+            "hiragana": "いう"
+        },
+        "type": "Verb, Godan verb",
+        "meaning": "to say; to call",
+        "level": "N5"
+    },
+    {
+        "vocab": "嫌",
+        "reading": {
+            "romaji": "iya",
+            "hiragana": "いや"
+        },
+        "type": "Noun, Adjective, な-adjective",
+        "meaning": "unpleasant",
+        "level": "N5"
+    },
+    {
+        "vocab": "じゃあ",
+        "reading": {
+            "romaji": "jaa",
+            "hiragana": ""
+        },
+        "type": "Conjunction",
+        "meaning": "then; well; so; well then",
+        "level": "N5"
+    },
+    {
+        "vocab": "字引",
+        "reading": {
+            "romaji": "jibiki",
+            "hiragana": "じびき"
+        },
+        "type": "Noun",
+        "meaning": "dictionary",
+        "level": "N5"
+    },
+    {
+        "vocab": "自分",
+        "reading": {
+            "romaji": "jibun",
+            "hiragana": "じぶん"
+        },
+        "type": "Pronoun",
+        "meaning": "myself; yourself; oneself; himself; herself; i; me",
+        "level": "N5"
+    },
+    {
+        "vocab": "自動車",
+        "reading": {
+            "romaji": "jidousha",
+            "hiragana": "じどうしゃ"
+        },
+        "type": "Noun",
+        "meaning": "automobile; motorcar; motor vehicle; car",
+        "level": "N5"
+    },
+    {
+        "vocab": "時間",
+        "reading": {
+            "romaji": "jikan",
+            "hiragana": "じかん"
+        },
+        "type": "Noun",
+        "meaning": "time; hour(s)",
+        "level": "N5"
+    },
+    {
+        "vocab": "辞書",
+        "reading": {
+            "romaji": "jisho",
+            "hiragana": "じしょ"
+        },
+        "type": "Noun",
+        "meaning": "dictionary",
+        "level": "N5"
+    },
+    {
+        "vocab": "自転車",
+        "reading": {
+            "romaji": "jitensha",
+            "hiragana": "じてんしゃ"
+        },
+        "type": "Noun",
+        "meaning": "bicycle",
+        "level": "N5"
+    },
+    {
+        "vocab": "丈夫",
+        "reading": {
+            "romaji": "joubu",
+            "hiragana": "じょうぶ"
+        },
+        "type": "Adjective, な-adjective",
+        "meaning": "strong, durable",
+        "level": "N5"
+    },
+    {
+        "vocab": "上手",
+        "reading": {
+            "romaji": "jouzu",
+            "hiragana": "じょうず"
+        },
+        "type": "Noun, Adjective, な-adjective",
+        "meaning": "skillful; skilled; proficient; good (at)",
+        "level": "N5"
+    },
+    {
+        "vocab": "授業",
+        "reading": {
+            "romaji": "jugyou",
+            "hiragana": "じゅぎょう"
+        },
+        "type": "Noun, Suru verb",
+        "meaning": "lesson; class work",
+        "level": "N5"
+    },
+    {
+        "vocab": "十",
+        "reading": {
+            "romaji": "juu",
+            "hiragana": "じゅう"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "ten; 10",
+        "level": "N5"
+    },
+    {
+        "vocab": "かばん",
+        "reading": {
+            "romaji": "kaban",
+            "hiragana": ""
+        },
+        "type": "Noun",
+        "meaning": "bag; basket​",
+        "level": "N5"
+    },
+    {
+        "vocab": "花瓶",
+        "reading": {
+            "romaji": "kabin",
+            "hiragana": "かびん"
+        },
+        "type": "Noun",
+        "meaning": "a vase",
+        "level": "N5"
+    },
+    {
+        "vocab": "角",
+        "reading": {
+            "romaji": "kado",
+            "hiragana": "かど"
+        },
+        "type": "Noun",
+        "meaning": "a corner; angle​",
+        "level": "N5"
+    },
+    {
+        "vocab": "帰る",
+        "reading": {
+            "romaji": "kaeru",
+            "hiragana": "かえる"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to go back​",
+        "level": "N5"
+    },
+    {
+        "vocab": "返す",
+        "reading": {
+            "romaji": "kaesu",
+            "hiragana": "かえす"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to return something",
+        "level": "N5"
+    },
+    {
+        "vocab": "鍵",
+        "reading": {
+            "romaji": "kagi",
+            "hiragana": "かぎ"
+        },
+        "type": "Noun",
+        "meaning": "key",
+        "level": "N5"
+    },
+    {
+        "vocab": "階段",
+        "reading": {
+            "romaji": "kaidan",
+            "hiragana": "かいだん"
+        },
+        "type": "Noun",
+        "meaning": "stairs; stairway; staircase",
+        "level": "N5"
+    },
+    {
+        "vocab": "買い物",
+        "reading": {
+            "romaji": "kaimono",
+            "hiragana": "かいもの"
+        },
+        "type": "Noun",
+        "meaning": "shopping; purchased goods",
+        "level": "N5"
+    },
+    {
+        "vocab": "会社",
+        "reading": {
+            "romaji": "kaisha",
+            "hiragana": "かいしゃ"
+        },
+        "type": "Noun",
+        "meaning": "company; corporation",
+        "level": "N5"
+    },
+    {
+        "vocab": "掛かる",
+        "reading": {
+            "romaji": "kakaru",
+            "hiragana": "かかる"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to take (a resource, e.g. time or money)",
+        "level": "N5"
+    },
+    {
+        "vocab": "掛ける",
+        "reading": {
+            "romaji": "kakeru",
+            "hiragana": "かける"
+        },
+        "type": "Verb, Ichidan verb, Transitive verb",
+        "meaning": "to hang up; to make (a call)​;",
+        "level": "N5"
+    },
+    {
+        "vocab": "書く",
+        "reading": {
+            "romaji": "kaku",
+            "hiragana": "かく"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to write; to compose; to pen; to draw",
+        "level": "N5"
+    },
+    {
+        "vocab": "カメラ",
+        "reading": {
+            "romaji": "kamera",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "camera",
+        "level": "N5"
+    },
+    {
+        "vocab": "紙",
+        "reading": {
+            "romaji": "kami",
+            "hiragana": "かみ"
+        },
+        "type": "Noun",
+        "meaning": "paper",
+        "level": "N5"
+    },
+    {
+        "vocab": "漢字",
+        "reading": {
+            "romaji": "kanji",
+            "hiragana": "かんじ"
+        },
+        "type": "Noun",
+        "meaning": "kanji",
+        "level": "N5"
+    },
+    {
+        "vocab": "カップ",
+        "reading": {
+            "romaji": "kappu",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "cup",
+        "level": "N5"
+    },
+    {
+        "vocab": "体",
+        "reading": {
+            "romaji": "karada",
+            "hiragana": "からだ"
+        },
+        "type": "Noun",
+        "meaning": "body",
+        "level": "N5"
+    },
+    {
+        "vocab": "辛い",
+        "reading": {
+            "romaji": "karai",
+            "hiragana": "からい"
+        },
+        "type": "い-adjective",
+        "meaning": "spicy",
+        "level": "N5"
+    },
+    {
+        "vocab": "カレー",
+        "reading": {
+            "romaji": "karee",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "curry",
+        "level": "N5"
+    },
+    {
+        "vocab": "カレンダー",
+        "reading": {
+            "romaji": "karendaa",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "calendar",
+        "level": "N5"
+    },
+    {
+        "vocab": "借りる",
+        "reading": {
+            "romaji": "kariru",
+            "hiragana": "かりる"
+        },
+        "type": "Verb, Ichidan verb, Transitive verb",
+        "meaning": "to borrow",
+        "level": "N5"
+    },
+    {
+        "vocab": "軽い",
+        "reading": {
+            "romaji": "karui",
+            "hiragana": "かるい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "light",
+        "level": "N5"
+    },
+    {
+        "vocab": "傘",
+        "reading": {
+            "romaji": "kasa",
+            "hiragana": "かさ"
+        },
+        "type": "Noun",
+        "meaning": "umbrella",
+        "level": "N5"
+    },
+    {
+        "vocab": "貸す",
+        "reading": {
+            "romaji": "kasu",
+            "hiragana": "かす"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to lend; to loan",
+        "level": "N5"
+    },
+    {
+        "vocab": "方",
+        "reading": {
+            "romaji": "kata",
+            "hiragana": "かた"
+        },
+        "type": "Noun",
+        "meaning": "way of doing something",
+        "level": "N5"
+    },
+    {
+        "vocab": "家庭",
+        "reading": {
+            "romaji": "katei",
+            "hiragana": "かてい"
+        },
+        "type": "Noun",
+        "meaning": "household",
+        "level": "N5"
+    },
+    {
+        "vocab": "買う",
+        "reading": {
+            "romaji": "kau",
+            "hiragana": "かう"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to buy; to purchase",
+        "level": "N5"
+    },
+    {
+        "vocab": "川",
+        "reading": {
+            "romaji": "kawa",
+            "hiragana": "かわ"
+        },
+        "type": "Noun, Suffix",
+        "meaning": "river; stream​",
+        "level": "N5"
+    },
+    {
+        "vocab": "可愛い",
+        "reading": {
+            "romaji": "kawaii",
+            "hiragana": "かわいい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "cute",
+        "level": "N5"
+    },
+    {
+        "vocab": "火曜日",
+        "reading": {
+            "romaji": "kayoubi",
+            "hiragana": "かようび"
+        },
+        "type": "Noun",
+        "meaning": "Tuesday",
+        "level": "N5"
+    },
+    {
+        "vocab": "風",
+        "reading": {
+            "romaji": "kaze",
+            "hiragana": "かぜ"
+        },
+        "type": "Noun",
+        "meaning": "wind",
+        "level": "N5"
+    },
+    {
+        "vocab": "風邪",
+        "reading": {
+            "romaji": "kaze",
+            "hiragana": "かぜ"
+        },
+        "type": "Noun",
+        "meaning": "a cold",
+        "level": "N5"
+    },
+    {
+        "vocab": "家族",
+        "reading": {
+            "romaji": "kazoku",
+            "hiragana": "かぞく"
+        },
+        "type": "Noun",
+        "meaning": "family; members of a family",
+        "level": "N5"
+    },
+    {
+        "vocab": "警官",
+        "reading": {
+            "romaji": "keikan",
+            "hiragana": "けいかん"
+        },
+        "type": "Noun",
+        "meaning": "policeman; police officer",
+        "level": "N5"
+    },
+    {
+        "vocab": "結婚",
+        "reading": {
+            "romaji": "kekkon",
+            "hiragana": "けっこん"
+        },
+        "type": "Noun, Suru verb",
+        "meaning": "marriage",
+        "level": "N5"
+    },
+    {
+        "vocab": "結構",
+        "reading": {
+            "romaji": "kekkou",
+            "hiragana": "けっこう"
+        },
+        "type": "Noun, Adverbial Noun, Adjective, な-adjective, Adverb",
+        "meaning": "splendid, enough",
+        "level": "N5"
+    },
+    {
+        "vocab": "今朝",
+        "reading": {
+            "romaji": "kesa",
+            "hiragana": "けさ"
+        },
+        "type": "Noun, Temporal noun",
+        "meaning": "this morning",
+        "level": "N5"
+    },
+    {
+        "vocab": "消す",
+        "reading": {
+            "romaji": "kesu",
+            "hiragana": "けす"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to erase, to turn off power",
+        "level": "N5"
+    },
+    {
+        "vocab": "木",
+        "reading": {
+            "romaji": "ki",
+            "hiragana": "き"
+        },
+        "type": "Noun",
+        "meaning": "tree; shrub; bush; wood; timber",
+        "level": "N5"
+    },
+    {
+        "vocab": "消える",
+        "reading": {
+            "romaji": "kieru",
+            "hiragana": "きえる"
+        },
+        "type": "Verb, Ichidan verb, Intransitive verb",
+        "meaning": "to disappear",
+        "level": "N5"
+    },
+    {
+        "vocab": "黄色い",
+        "reading": {
+            "romaji": "kiiroi",
+            "hiragana": "きいろい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "yellow",
+        "level": "N5"
+    },
+    {
+        "vocab": "聞く",
+        "reading": {
+            "romaji": "kiku",
+            "hiragana": "きく"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to hear; to listen (to music); to ask; to learn of",
+        "level": "N5"
+    },
+    {
+        "vocab": "昨日",
+        "reading": {
+            "romaji": "kinou",
+            "hiragana": "きのう"
+        },
+        "type": "Noun",
+        "meaning": "yesterday",
+        "level": "N5"
+    },
+    {
+        "vocab": "金曜日",
+        "reading": {
+            "romaji": "kinyoubi",
+            "hiragana": "きんようび"
+        },
+        "type": "Noun",
+        "meaning": "Friday",
+        "level": "N5"
+    },
+    {
+        "vocab": "切符",
+        "reading": {
+            "romaji": "kippu",
+            "hiragana": "きっぷ"
+        },
+        "type": "Noun",
+        "meaning": "ticket",
+        "level": "N5"
+    },
+    {
+        "vocab": "嫌い",
+        "reading": {
+            "romaji": "kirai",
+            "hiragana": "きらい"
+        },
+        "type": "Noun, Adjective, な-adjective",
+        "meaning": "hate",
+        "level": "N5"
+    },
+    {
+        "vocab": "綺麗",
+        "reading": {
+            "romaji": "kirei",
+            "hiragana": "きれい"
+        },
+        "type": "Adjective, な-adjective",
+        "meaning": "pretty; lovely; beautiful",
+        "level": "N5"
+    },
+    {
+        "vocab": "キログラム",
+        "reading": {
+            "romaji": "kiro guramu",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "kilogram",
+        "level": "N5"
+    },
+    {
+        "vocab": "キロメートル",
+        "reading": {
+            "romaji": "kiro meetoru",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "kilometer",
+        "level": "N5"
+    },
+    {
+        "vocab": "切る",
+        "reading": {
+            "romaji": "kiru",
+            "hiragana": "きる"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to cut",
+        "level": "N5"
+    },
+    {
+        "vocab": "着る",
+        "reading": {
+            "romaji": "kiru",
+            "hiragana": "きる"
+        },
+        "type": "Verb, Ichidan verb, Transitive verb",
+        "meaning": "to wear",
+        "level": "N5"
+    },
+    {
+        "vocab": "喫茶店",
+        "reading": {
+            "romaji": "kissaten",
+            "hiragana": "きっさてん"
+        },
+        "type": "Noun",
+        "meaning": "coffee shop; tearoom; cafe",
+        "level": "N5"
+    },
+    {
+        "vocab": "北",
+        "reading": {
+            "romaji": "kita",
+            "hiragana": "きた"
+        },
+        "type": "Noun",
+        "meaning": "north",
+        "level": "N5"
+    },
+    {
+        "vocab": "汚い",
+        "reading": {
+            "romaji": "kitanai",
+            "hiragana": "きたない"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "dirty",
+        "level": "N5"
+    },
+    {
+        "vocab": "切手",
+        "reading": {
+            "romaji": "kitte",
+            "hiragana": "きって"
+        },
+        "type": "Noun",
+        "meaning": "stamp (postage)",
+        "level": "N5"
+    },
+    {
+        "vocab": "こっち",
+        "reading": {
+            "romaji": "kocchi",
+            "hiragana": ""
+        },
+        "type": "Noun",
+        "meaning": "this person or way",
+        "level": "N5"
+    },
+    {
+        "vocab": "こちら",
+        "reading": {
+            "romaji": "kochira",
+            "hiragana": ""
+        },
+        "type": "Noun",
+        "meaning": "this way; this direction​",
+        "level": "N5"
+    },
+    {
+        "vocab": "子供",
+        "reading": {
+            "romaji": "kodomo",
+            "hiragana": "こども"
+        },
+        "type": "Noun",
+        "meaning": "child",
+        "level": "N5"
+    },
+    {
+        "vocab": "声",
+        "reading": {
+            "romaji": "koe",
+            "hiragana": "こえ"
+        },
+        "type": "Noun",
+        "meaning": "voice",
+        "level": "N5"
+    },
+    {
+        "vocab": "ここ",
+        "reading": {
+            "romaji": "koko",
+            "hiragana": ""
+        },
+        "type": "Pronoun",
+        "meaning": "here; this place",
+        "level": "N5"
+    },
+    {
+        "vocab": "九日",
+        "reading": {
+            "romaji": "kokonoka",
+            "hiragana": "ここのか"
+        },
+        "type": "Noun",
+        "meaning": "ninth day of the month / 9 days",
+        "level": "N5"
+    },
+    {
+        "vocab": "九つ",
+        "reading": {
+            "romaji": "kokonotsu",
+            "hiragana": "ここのつ"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "nine; 9",
+        "level": "N5"
+    },
+    {
+        "vocab": "困る",
+        "reading": {
+            "romaji": "komaru",
+            "hiragana": "こまる"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to be troubled",
+        "level": "N5"
+    },
+    {
+        "vocab": "今晩",
+        "reading": {
+            "romaji": "konban",
+            "hiragana": "こんばん"
+        },
+        "type": "Noun",
+        "meaning": "tonight; this evening",
+        "level": "N5"
+    },
+    {
+        "vocab": "今月",
+        "reading": {
+            "romaji": "kongetsu",
+            "hiragana": "こんげつ"
+        },
+        "type": "Noun",
+        "meaning": "this month",
+        "level": "N5"
+    },
+    {
+        "vocab": "こんな",
+        "reading": {
+            "romaji": "konna",
+            "hiragana": ""
+        },
+        "type": "Pre-noun adjectival",
+        "meaning": "such; like this​",
+        "level": "N5"
+    },
+    {
+        "vocab": "この",
+        "reading": {
+            "romaji": "kono",
+            "hiragana": ""
+        },
+        "type": "Pre-noun adjectival",
+        "meaning": "this​",
+        "level": "N5"
+    },
+    {
+        "vocab": "今週",
+        "reading": {
+            "romaji": "konshuu",
+            "hiragana": "こんしゅう"
+        },
+        "type": "Noun",
+        "meaning": "this week",
+        "level": "N5"
+    },
+    {
+        "vocab": "コーヒー",
+        "reading": {
+            "romaji": "koohii",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "Coffee",
+        "level": "N5"
+    },
+    {
+        "vocab": "コート",
+        "reading": {
+            "romaji": "kooto",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "coat",
+        "level": "N5"
+    },
+    {
+        "vocab": "コピー",
+        "reading": {
+            "romaji": "kopii",
+            "hiragana": ""
+        },
+        "type": "Noun, Suru verb, Katakana",
+        "meaning": "copy; photocopy",
+        "level": "N5"
+    },
+    {
+        "vocab": "コップ",
+        "reading": {
+            "romaji": "koppu",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "glass (drinking vessel); tumbler​",
+        "level": "N5"
+    },
+    {
+        "vocab": "これ",
+        "reading": {
+            "romaji": "kore",
+            "hiragana": ""
+        },
+        "type": "Pronoun",
+        "meaning": "this",
+        "level": "N5"
+    },
+    {
+        "vocab": "答える",
+        "reading": {
+            "romaji": "kotaeru",
+            "hiragana": "こたえる"
+        },
+        "type": "Verb, Ichidan verb, Intransitive verb",
+        "meaning": "to answer",
+        "level": "N5"
+    },
+    {
+        "vocab": "言葉",
+        "reading": {
+            "romaji": "kotoba",
+            "hiragana": "ことば"
+        },
+        "type": "Noun",
+        "meaning": "word; words",
+        "level": "N5"
+    },
+    {
+        "vocab": "今年",
+        "reading": {
+            "romaji": "kotoshi",
+            "hiragana": "ことし"
+        },
+        "type": "Noun",
+        "meaning": "this year",
+        "level": "N5"
+    },
+    {
+        "vocab": "交番",
+        "reading": {
+            "romaji": "kouban",
+            "hiragana": "こうばん"
+        },
+        "type": "Noun",
+        "meaning": "police box",
+        "level": "N5"
+    },
+    {
+        "vocab": "紅茶",
+        "reading": {
+            "romaji": "koucha",
+            "hiragana": "こうちゃ"
+        },
+        "type": "Noun",
+        "meaning": "black tea",
+        "level": "N5"
+    },
+    {
+        "vocab": "公園",
+        "reading": {
+            "romaji": "kouen",
+            "hiragana": "こうえん"
+        },
+        "type": "Noun",
+        "meaning": "park",
+        "level": "N5"
+    },
+    {
+        "vocab": "交差点",
+        "reading": {
+            "romaji": "kousaten",
+            "hiragana": "こうさてん"
+        },
+        "type": "Noun",
+        "meaning": "intersection",
+        "level": "N5"
+    },
+    {
+        "vocab": "口",
+        "reading": {
+            "romaji": "kuchi",
+            "hiragana": "くち"
+        },
+        "type": "Noun",
+        "meaning": "mouth, opening",
+        "level": "N5"
+    },
+    {
+        "vocab": "果物",
+        "reading": {
+            "romaji": "kudamono",
+            "hiragana": "くだもの"
+        },
+        "type": "Noun",
+        "meaning": "fruit",
+        "level": "N5"
+    },
+    {
+        "vocab": "下さい",
+        "reading": {
+            "romaji": "kudasai",
+            "hiragana": "ください"
+        },
+        "type": "Expression",
+        "meaning": "please",
+        "level": "N5"
+    },
+    {
+        "vocab": "曇り",
+        "reading": {
+            "romaji": "kumori",
+            "hiragana": "くもり"
+        },
+        "type": "Noun",
+        "meaning": "cloudiness; cloudy weather",
+        "level": "N5"
+    },
+    {
+        "vocab": "曇る",
+        "reading": {
+            "romaji": "kumoru",
+            "hiragana": "くもる"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to become cloudy, to become dim",
+        "level": "N5"
+    },
+    {
+        "vocab": "国",
+        "reading": {
+            "romaji": "kuni",
+            "hiragana": "くに"
+        },
+        "type": "Noun",
+        "meaning": "country; state; region",
+        "level": "N5"
+    },
+    {
+        "vocab": "暗い",
+        "reading": {
+            "romaji": "kurai",
+            "hiragana": "くらい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "dark; gloomy; murky",
+        "level": "N5"
+    },
+    {
+        "vocab": "クラス",
+        "reading": {
+            "romaji": "kurasu",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "class",
+        "level": "N5"
+    },
+    {
+        "vocab": "黒",
+        "reading": {
+            "romaji": "kuro",
+            "hiragana": "くろ"
+        },
+        "type": "Noun",
+        "meaning": "black",
+        "level": "N5"
+    },
+    {
+        "vocab": "黒い",
+        "reading": {
+            "romaji": "kuroi",
+            "hiragana": "くろい"
+        },
+        "type": "い-adjective",
+        "meaning": "black",
+        "level": "N5"
+    },
+    {
+        "vocab": "来る",
+        "reading": {
+            "romaji": "kuru",
+            "hiragana": "くる"
+        },
+        "type": "Verb, Intransitive verb",
+        "meaning": "to come",
+        "level": "N5"
+    },
+    {
+        "vocab": "車",
+        "reading": {
+            "romaji": "kuruma",
+            "hiragana": "くるま"
+        },
+        "type": "Noun",
+        "meaning": "car; automobile; vehicle",
+        "level": "N5"
+    },
+    {
+        "vocab": "薬",
+        "reading": {
+            "romaji": "kusuri",
+            "hiragana": "くすり"
+        },
+        "type": "Noun",
+        "meaning": "medicine",
+        "level": "N5"
+    },
+    {
+        "vocab": "靴",
+        "reading": {
+            "romaji": "kutsu",
+            "hiragana": "くつ"
+        },
+        "type": "Noun",
+        "meaning": "shoes",
+        "level": "N5"
+    },
+    {
+        "vocab": "靴下",
+        "reading": {
+            "romaji": "kutsushita",
+            "hiragana": "くつした"
+        },
+        "type": "Noun",
+        "meaning": "socks",
+        "level": "N5"
+    },
+    {
+        "vocab": "去年",
+        "reading": {
+            "romaji": "kyonen",
+            "hiragana": "きょねん"
+        },
+        "type": "Noun",
+        "meaning": "last year",
+        "level": "N5"
+    },
+    {
+        "vocab": "今日",
+        "reading": {
+            "romaji": "kyou",
+            "hiragana": "きょう"
+        },
+        "type": "Noun, Temporal noun",
+        "meaning": "today; this day",
+        "level": "N5"
+    },
+    {
+        "vocab": "兄弟",
+        "reading": {
+            "romaji": "kyoudai",
+            "hiragana": "きょうだい"
+        },
+        "type": "Noun",
+        "meaning": "siblings; brothers and sisters​; mate",
+        "level": "N5"
+    },
+    {
+        "vocab": "教室",
+        "reading": {
+            "romaji": "kyoushitsu",
+            "hiragana": "きょうしつ"
+        },
+        "type": "Noun",
+        "meaning": "classroom",
+        "level": "N5"
+    },
+    {
+        "vocab": "九",
+        "reading": {
+            "romaji": "kyuu",
+            "hiragana": "きゅう"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "nine; 9",
+        "level": "N5"
+    },
+    {
+        "vocab": "マッチ",
+        "reading": {
+            "romaji": "macchi",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "match",
+        "level": "N5"
+    },
+    {
+        "vocab": "町",
+        "reading": {
+            "romaji": "machi",
+            "hiragana": "まち"
+        },
+        "type": "Noun",
+        "meaning": "town; block; neighborhood",
+        "level": "N5"
+    },
+    {
+        "vocab": "窓",
+        "reading": {
+            "romaji": "mado",
+            "hiragana": "まど"
+        },
+        "type": "Noun",
+        "meaning": "window",
+        "level": "N5"
+    },
+    {
+        "vocab": "前",
+        "reading": {
+            "romaji": "mae",
+            "hiragana": "まえ"
+        },
+        "type": "Noun, Suffix",
+        "meaning": "previous; before; in front; ago",
+        "level": "N5"
+    },
+    {
+        "vocab": "曲がる",
+        "reading": {
+            "romaji": "magaru",
+            "hiragana": "まがる"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to turn, to bend",
+        "level": "N5"
+    },
+    {
+        "vocab": "毎朝",
+        "reading": {
+            "romaji": "maiasa",
+            "hiragana": "まいあさ"
+        },
+        "type": "Noun",
+        "meaning": "every morning",
+        "level": "N5"
+    },
+    {
+        "vocab": "毎晩",
+        "reading": {
+            "romaji": "maiban",
+            "hiragana": "まいばん"
+        },
+        "type": "Noun",
+        "meaning": "every night",
+        "level": "N5"
+    },
+    {
+        "vocab": "毎日",
+        "reading": {
+            "romaji": "mainichi",
+            "hiragana": "まいにち"
+        },
+        "type": "Noun",
+        "meaning": "every day",
+        "level": "N5"
+    },
+    {
+        "vocab": "毎週",
+        "reading": {
+            "romaji": "maishuu",
+            "hiragana": "まいしゅう"
+        },
+        "type": "Noun",
+        "meaning": "every week",
+        "level": "N5"
+    },
+    {
+        "vocab": "毎年",
+        "reading": {
+            "romaji": "maitoshi / mainen",
+            "hiragana": "まいとし / まいねん"
+        },
+        "type": "Noun",
+        "meaning": "every year; yearly; annually",
+        "level": "N5"
+    },
+    {
+        "vocab": "毎月",
+        "reading": {
+            "romaji": "maitsuki",
+            "hiragana": "まいつき"
+        },
+        "type": "Noun",
+        "meaning": "every month; monthly",
+        "level": "N5"
+    },
+    {
+        "vocab": "万",
+        "reading": {
+            "romaji": "man",
+            "hiragana": "まん"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "10,000; ten thousand",
+        "level": "N5"
+    },
+    {
+        "vocab": "万年筆",
+        "reading": {
+            "romaji": "mannenhitsu",
+            "hiragana": "まんねんひつ"
+        },
+        "type": "Noun",
+        "meaning": "fountain pen",
+        "level": "N5"
+    },
+    {
+        "vocab": "丸い",
+        "reading": {
+            "romaji": "marui",
+            "hiragana": "まるい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "round,circular",
+        "level": "N5"
+    },
+    {
+        "vocab": "真っ直ぐ",
+        "reading": {
+            "romaji": "massugu",
+            "hiragana": "まっすぐ"
+        },
+        "type": "Noun, Adjective, な-adjective, Adverb",
+        "meaning": "straight ahead,direct",
+        "level": "N5"
+    },
+    {
+        "vocab": "待つ",
+        "reading": {
+            "romaji": "matsu",
+            "hiragana": "まつ"
+        },
+        "type": "Verb, Godan verb, Intransitive verb, Transitive verb",
+        "meaning": "to wait​",
+        "level": "N5"
+    },
+    {
+        "vocab": "不味い",
+        "reading": {
+            "romaji": "mazui",
+            "hiragana": "まずい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "unpleasant",
+        "level": "N5"
+    },
+    {
+        "vocab": "目",
+        "reading": {
+            "romaji": "me",
+            "hiragana": "め"
+        },
+        "type": "Noun",
+        "meaning": "eye",
+        "level": "N5"
+    },
+    {
+        "vocab": "メートル",
+        "reading": {
+            "romaji": "meetoru",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "metre; meter",
+        "level": "N5"
+    },
+    {
+        "vocab": "眼鏡",
+        "reading": {
+            "romaji": "megane",
+            "hiragana": "めがね"
+        },
+        "type": "Noun",
+        "meaning": "glasses",
+        "level": "N5"
+    },
+    {
+        "vocab": "道",
+        "reading": {
+            "romaji": "michi",
+            "hiragana": "みち"
+        },
+        "type": "Noun",
+        "meaning": "road; street",
+        "level": "N5"
+    },
+    {
+        "vocab": "緑",
+        "reading": {
+            "romaji": "midori",
+            "hiragana": "みどり"
+        },
+        "type": "Noun",
+        "meaning": "green",
+        "level": "N5"
+    },
+    {
+        "vocab": "磨く",
+        "reading": {
+            "romaji": "migaku",
+            "hiragana": "みがく"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to polish; to shine; to brush (e.g. teeth)",
+        "level": "N5"
+    },
+    {
+        "vocab": "右",
+        "reading": {
+            "romaji": "migi",
+            "hiragana": "みぎ"
+        },
+        "type": "Noun",
+        "meaning": "right; right hand side",
+        "level": "N5"
+    },
+    {
+        "vocab": "短い",
+        "reading": {
+            "romaji": "mijikai",
+            "hiragana": "みじかい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "short",
+        "level": "N5"
+    },
+    {
+        "vocab": "三日",
+        "reading": {
+            "romaji": "mikka",
+            "hiragana": "みっか"
+        },
+        "type": "Noun",
+        "meaning": "the third day of the month / 3 days",
+        "level": "N5"
+    },
+    {
+        "vocab": "耳",
+        "reading": {
+            "romaji": "mimi",
+            "hiragana": "みみ"
+        },
+        "type": "Noun",
+        "meaning": "ear; hearing",
+        "level": "N5"
+    },
+    {
+        "vocab": "南",
+        "reading": {
+            "romaji": "minami",
+            "hiragana": "みなみ"
+        },
+        "type": "Noun",
+        "meaning": "south",
+        "level": "N5"
+    },
+    {
+        "vocab": "皆さん",
+        "reading": {
+            "romaji": "minasan",
+            "hiragana": "みなさん"
+        },
+        "type": "Noun",
+        "meaning": "everyone",
+        "level": "N5"
+    },
+    {
+        "vocab": "みんな",
+        "reading": {
+            "romaji": "minna",
+            "hiragana": ""
+        },
+        "type": "Noun, Adverb",
+        "meaning": "all; everyone; everybody",
+        "level": "N5"
+    },
+    {
+        "vocab": "見る",
+        "reading": {
+            "romaji": "miru",
+            "hiragana": "みる"
+        },
+        "type": "Verb, Ichidan verb, Transitive verb",
+        "meaning": "to see; to look; to watch; to view; to observe",
+        "level": "N5"
+    },
+    {
+        "vocab": "店",
+        "reading": {
+            "romaji": "mise",
+            "hiragana": "みせ"
+        },
+        "type": "Noun",
+        "meaning": "store; shop; establishment; restaurant",
+        "level": "N5"
+    },
+    {
+        "vocab": "見せる",
+        "reading": {
+            "romaji": "miseru",
+            "hiragana": "みせる"
+        },
+        "type": "Verb, Ichidan verb, Transitive verb",
+        "meaning": "to show; to display",
+        "level": "N5"
+    },
+    {
+        "vocab": "三つ",
+        "reading": {
+            "romaji": "mittsu",
+            "hiragana": "みっつ"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "three; 3",
+        "level": "N5"
+    },
+    {
+        "vocab": "水",
+        "reading": {
+            "romaji": "mizu",
+            "hiragana": "みず"
+        },
+        "type": "Noun",
+        "meaning": "water; fluid; liquid​",
+        "level": "N5"
+    },
+    {
+        "vocab": "木曜日",
+        "reading": {
+            "romaji": "mokuyoubi",
+            "hiragana": "もくようび"
+        },
+        "type": "Noun",
+        "meaning": "Thursday",
+        "level": "N5"
+    },
+    {
+        "vocab": "門",
+        "reading": {
+            "romaji": "mon",
+            "hiragana": "もん"
+        },
+        "type": "Noun",
+        "meaning": "gate",
+        "level": "N5"
+    },
+    {
+        "vocab": "問題",
+        "reading": {
+            "romaji": "mondai",
+            "hiragana": "もんだい"
+        },
+        "type": "Noun",
+        "meaning": "problem; question (e.g. on a test)",
+        "level": "N5"
+    },
+    {
+        "vocab": "物",
+        "reading": {
+            "romaji": "mono",
+            "hiragana": "もの"
+        },
+        "type": "Noun",
+        "meaning": "thing",
+        "level": "N5"
+    },
+    {
+        "vocab": "持つ",
+        "reading": {
+            "romaji": "motsu",
+            "hiragana": "もつ"
+        },
+        "type": "Verb, Godan verb",
+        "meaning": "to hold",
+        "level": "N5"
+    },
+    {
+        "vocab": "もっと",
+        "reading": {
+            "romaji": "motto",
+            "hiragana": ""
+        },
+        "type": "Adverb",
+        "meaning": "more; longer; further",
+        "level": "N5"
+    },
+    {
+        "vocab": "もう一度",
+        "reading": {
+            "romaji": "mouichido",
+            "hiragana": "もういちど"
+        },
+        "type": "Expression",
+        "meaning": "once more; again",
+        "level": "N5"
+    },
+    {
+        "vocab": "六日",
+        "reading": {
+            "romaji": "muika",
+            "hiragana": "むいか"
+        },
+        "type": "Noun",
+        "meaning": "sixth day of the month / 6 days",
+        "level": "N5"
+    },
+    {
+        "vocab": "向こう",
+        "reading": {
+            "romaji": "mukou",
+            "hiragana": "むこう"
+        },
+        "type": "Noun",
+        "meaning": "over there",
+        "level": "N5"
+    },
+    {
+        "vocab": "村",
+        "reading": {
+            "romaji": "mura",
+            "hiragana": "むら"
+        },
+        "type": "Noun",
+        "meaning": "village",
+        "level": "N5"
+    },
+    {
+        "vocab": "六つ",
+        "reading": {
+            "romaji": "muttsu",
+            "hiragana": "むっつ"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "six; 6",
+        "level": "N5"
+    },
+    {
+        "vocab": "難しい",
+        "reading": {
+            "romaji": "muzukashii",
+            "hiragana": "むずかしい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "difficult",
+        "level": "N5"
+    },
+    {
+        "vocab": "長い",
+        "reading": {
+            "romaji": "nagai",
+            "hiragana": "ながい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "long (distance)​; long (time); lengthy.",
+        "level": "N5"
+    },
+    {
+        "vocab": "ナイフ",
+        "reading": {
+            "romaji": "naifu",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "knife",
+        "level": "N5"
+    },
+    {
+        "vocab": "中",
+        "reading": {
+            "romaji": "naka",
+            "hiragana": "なか"
+        },
+        "type": "Noun",
+        "meaning": "inside; in; within; center",
+        "level": "N5"
+    },
+    {
+        "vocab": "鳴く",
+        "reading": {
+            "romaji": "naku",
+            "hiragana": "なく"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "animal noise. to chirp",
+        "level": "N5"
+    },
+    {
+        "vocab": "無くす",
+        "reading": {
+            "romaji": "nakusu",
+            "hiragana": "なくす"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to lose (something)",
+        "level": "N5"
+    },
+    {
+        "vocab": "名前",
+        "reading": {
+            "romaji": "namae",
+            "hiragana": "なまえ"
+        },
+        "type": "Noun",
+        "meaning": "name; full name; given name",
+        "level": "N5"
+    },
+    {
+        "vocab": "七つ",
+        "reading": {
+            "romaji": "nanatsu",
+            "hiragana": "ななつ"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "seven; 7",
+        "level": "N5"
+    },
+    {
+        "vocab": "何",
+        "reading": {
+            "romaji": "nani",
+            "hiragana": "なに"
+        },
+        "type": "Noun, Pronoun, Prefix",
+        "meaning": "what",
+        "level": "N5"
+    },
+    {
+        "vocab": "七日",
+        "reading": {
+            "romaji": "nanoka",
+            "hiragana": "なのか"
+        },
+        "type": "Noun",
+        "meaning": "seventh day of the month / 7 days",
+        "level": "N5"
+    },
+    {
+        "vocab": "並べる",
+        "reading": {
+            "romaji": "naraberu",
+            "hiragana": "ならべる"
+        },
+        "type": "Verb, Ichidan verb, Transitive verb",
+        "meaning": "to line up,to set up",
+        "level": "N5"
+    },
+    {
+        "vocab": "並ぶ",
+        "reading": {
+            "romaji": "narabu",
+            "hiragana": "ならぶ"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to line up,to stand in a line",
+        "level": "N5"
+    },
+    {
+        "vocab": "習う",
+        "reading": {
+            "romaji": "narau",
+            "hiragana": "ならう"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to be taught; to learn (from a teacher)",
+        "level": "N5"
+    },
+    {
+        "vocab": "夏",
+        "reading": {
+            "romaji": "natsu",
+            "hiragana": "なつ"
+        },
+        "type": "Noun",
+        "meaning": "summer",
+        "level": "N5"
+    },
+    {
+        "vocab": "夏休み",
+        "reading": {
+            "romaji": "natsuyasumi",
+            "hiragana": "なつやすみ"
+        },
+        "type": "Noun",
+        "meaning": "summer vacation; summer holiday",
+        "level": "N5"
+    },
+    {
+        "vocab": "何故",
+        "reading": {
+            "romaji": "naze",
+            "hiragana": "なぜ"
+        },
+        "type": "Adverb",
+        "meaning": "why; how",
+        "level": "N5"
+    },
+    {
+        "vocab": "猫",
+        "reading": {
+            "romaji": "neko",
+            "hiragana": "ねこ"
+        },
+        "type": "Noun",
+        "meaning": "cat",
+        "level": "N5"
+    },
+    {
+        "vocab": "ネクタイ",
+        "reading": {
+            "romaji": "nekutai",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "tie; necktie",
+        "level": "N5"
+    },
+    {
+        "vocab": "寝る",
+        "reading": {
+            "romaji": "neru",
+            "hiragana": "ねる"
+        },
+        "type": "Verb, Ichidan verb, Intransitive verb",
+        "meaning": "to sleep; to go to bed; to lie down",
+        "level": "N5"
+    },
+    {
+        "vocab": "二",
+        "reading": {
+            "romaji": "ni",
+            "hiragana": "に"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "two; 2",
+        "level": "N5"
+    },
+    {
+        "vocab": "日曜日",
+        "reading": {
+            "romaji": "nichiyoubi",
+            "hiragana": "にちようび"
+        },
+        "type": "Noun",
+        "meaning": "Sunday",
+        "level": "N5"
+    },
+    {
+        "vocab": "賑やか",
+        "reading": {
+            "romaji": "nigiyaka",
+            "hiragana": "にぎやか"
+        },
+        "type": "Adjective, な-adjective",
+        "meaning": "bustling,busy",
+        "level": "N5"
+    },
+    {
+        "vocab": "日記",
+        "reading": {
+            "romaji": "nikki",
+            "hiragana": "にっき"
+        },
+        "type": "Noun",
+        "meaning": "diary; journal",
+        "level": "N5"
+    },
+    {
+        "vocab": "肉",
+        "reading": {
+            "romaji": "niku",
+            "hiragana": "にく"
+        },
+        "type": "Noun",
+        "meaning": "meat",
+        "level": "N5"
+    },
+    {
+        "vocab": "荷物",
+        "reading": {
+            "romaji": "nimotsu",
+            "hiragana": "にもつ"
+        },
+        "type": "Noun",
+        "meaning": "luggage; baggage",
+        "level": "N5"
+    },
+    {
+        "vocab": "西",
+        "reading": {
+            "romaji": "nishi",
+            "hiragana": "にし"
+        },
+        "type": "Noun",
+        "meaning": "west",
+        "level": "N5"
+    },
+    {
+        "vocab": "庭",
+        "reading": {
+            "romaji": "niwa",
+            "hiragana": "にわ"
+        },
+        "type": "Noun",
+        "meaning": "garden",
+        "level": "N5"
+    },
+    {
+        "vocab": "登る",
+        "reading": {
+            "romaji": "noboru",
+            "hiragana": "のぼる"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to climb",
+        "level": "N5"
+    },
+    {
+        "vocab": "飲み物",
+        "reading": {
+            "romaji": "nomimono",
+            "hiragana": "のみもの"
+        },
+        "type": "Noun",
+        "meaning": "drink; beverage",
+        "level": "N5"
+    },
+    {
+        "vocab": "飲む",
+        "reading": {
+            "romaji": "nomu",
+            "hiragana": "のむ"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to drink",
+        "level": "N5"
+    },
+    {
+        "vocab": "ノート",
+        "reading": {
+            "romaji": "nooto",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "notebook",
+        "level": "N5"
+    },
+    {
+        "vocab": "乗る",
+        "reading": {
+            "romaji": "noru",
+            "hiragana": "のる"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to get on (train, plane, bus, ship, etc.)",
+        "level": "N5"
+    },
+    {
+        "vocab": "脱ぐ",
+        "reading": {
+            "romaji": "nugu",
+            "hiragana": "ぬぐ"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to take off clothes",
+        "level": "N5"
+    },
+    {
+        "vocab": "温い",
+        "reading": {
+            "romaji": "nurui",
+            "hiragana": "ぬるい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "luke warm",
+        "level": "N5"
+    },
+    {
+        "vocab": "ニュース",
+        "reading": {
+            "romaji": "nyuusu",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "news",
+        "level": "N5"
+    },
+    {
+        "vocab": "おばあさん",
+        "reading": {
+            "romaji": "obaasan",
+            "hiragana": ""
+        },
+        "type": "Noun",
+        "meaning": "grandmother",
+        "level": "N5"
+    },
+    {
+        "vocab": "伯母さん",
+        "reading": {
+            "romaji": "obasan",
+            "hiragana": "おばさん"
+        },
+        "type": "Noun",
+        "meaning": "aunt; old lady",
+        "level": "N5"
+    },
+    {
+        "vocab": "お弁当",
+        "reading": {
+            "romaji": "obentou",
+            "hiragana": "おべんとう"
+        },
+        "type": "Noun",
+        "meaning": "lunch box; Japanese box lunch",
+        "level": "N5"
+    },
+    {
+        "vocab": "覚える",
+        "reading": {
+            "romaji": "oboeru",
+            "hiragana": "おぼえる"
+        },
+        "type": "Verb, Ichidan verb, Transitive verb",
+        "meaning": "to remember",
+        "level": "N5"
+    },
+    {
+        "vocab": "お茶",
+        "reading": {
+            "romaji": "ocha",
+            "hiragana": "おちゃ"
+        },
+        "type": "Noun",
+        "meaning": "tea",
+        "level": "N5"
+    },
+    {
+        "vocab": "お風呂",
+        "reading": {
+            "romaji": "ofuro",
+            "hiragana": "おふろ"
+        },
+        "type": "Noun",
+        "meaning": "bath",
+        "level": "N5"
+    },
+    {
+        "vocab": "美味しい",
+        "reading": {
+            "romaji": "oishii",
+            "hiragana": "おいしい"
+        },
+        "type": "い-adjective",
+        "meaning": "delicious",
+        "level": "N5"
+    },
+    {
+        "vocab": "伯父さん",
+        "reading": {
+            "romaji": "ojisan",
+            "hiragana": "おじさん"
+        },
+        "type": "Noun",
+        "meaning": "uncle; old man; mister",
+        "level": "N5"
+    },
+    {
+        "vocab": "お母さん",
+        "reading": {
+            "romaji": "okaasan",
+            "hiragana": "おかあさん"
+        },
+        "type": "Noun",
+        "meaning": "mother; mom; mum; ma",
+        "level": "N5"
+    },
+    {
+        "vocab": "お金",
+        "reading": {
+            "romaji": "okane",
+            "hiragana": "おかね"
+        },
+        "type": "Noun",
+        "meaning": "money",
+        "level": "N5"
+    },
+    {
+        "vocab": "お菓子",
+        "reading": {
+            "romaji": "okashi",
+            "hiragana": "おかし"
+        },
+        "type": "Noun",
+        "meaning": "confections; sweets; candy",
+        "level": "N5"
+    },
+    {
+        "vocab": "起きる",
+        "reading": {
+            "romaji": "okiru",
+            "hiragana": "おきる"
+        },
+        "type": "Verb, Ichidan verb, Intransitive verb",
+        "meaning": "to get up; to wake up",
+        "level": "N5"
+    },
+    {
+        "vocab": "置く",
+        "reading": {
+            "romaji": "oku",
+            "hiragana": "おく"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to put; to place​",
+        "level": "N5"
+    },
+    {
+        "vocab": "奥さん",
+        "reading": {
+            "romaji": "okusan",
+            "hiragana": "おくさん"
+        },
+        "type": "Noun",
+        "meaning": "wife; your wife; his wife",
+        "level": "N5"
+    },
+    {
+        "vocab": "お巡りさん",
+        "reading": {
+            "romaji": "omawari san",
+            "hiragana": "おまわりさん"
+        },
+        "type": "Noun",
+        "meaning": "police officer (friendly term for policeman)",
+        "level": "N5"
+    },
+    {
+        "vocab": "重い",
+        "reading": {
+            "romaji": "omoi",
+            "hiragana": "おもい"
+        },
+        "type": "い-adjective",
+        "meaning": "heavy",
+        "level": "N5"
+    },
+    {
+        "vocab": "面白い",
+        "reading": {
+            "romaji": "omoshiroi",
+            "hiragana": "おもしろい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "interesting",
+        "level": "N5"
+    },
+    {
+        "vocab": "同じ",
+        "reading": {
+            "romaji": "onaji",
+            "hiragana": "おなじ"
+        },
+        "type": "Noun, Adverb",
+        "meaning": "same",
+        "level": "N5"
+    },
+    {
+        "vocab": "お腹",
+        "reading": {
+            "romaji": "onaka",
+            "hiragana": "おなか"
+        },
+        "type": "Noun",
+        "meaning": "stomach",
+        "level": "N5"
+    },
+    {
+        "vocab": "お姉さん",
+        "reading": {
+            "romaji": "oneesan",
+            "hiragana": "おねえさん"
+        },
+        "type": "Noun",
+        "meaning": "elder sister; young lady; miss; ma'am",
+        "level": "N5"
+    },
+    {
+        "vocab": "音楽",
+        "reading": {
+            "romaji": "ongaku",
+            "hiragana": "おんがく"
+        },
+        "type": "Noun",
+        "meaning": "music",
+        "level": "N5"
+    },
+    {
+        "vocab": "お兄さん",
+        "reading": {
+            "romaji": "oniisan",
+            "hiragana": "おにいさん"
+        },
+        "type": "Noun",
+        "meaning": "older brother; elder brother; young man; buddy",
+        "level": "N5"
+    },
+    {
+        "vocab": "女",
+        "reading": {
+            "romaji": "onna",
+            "hiragana": "おんな"
+        },
+        "type": "Noun, Prefix",
+        "meaning": "woman; female sex",
+        "level": "N5"
+    },
+    {
+        "vocab": "女の子",
+        "reading": {
+            "romaji": "onnanoko",
+            "hiragana": "おんなのこ"
+        },
+        "type": "Noun, Expression",
+        "meaning": "girl; daughter; young women",
+        "level": "N5"
+    },
+    {
+        "vocab": "多い",
+        "reading": {
+            "romaji": "ooi",
+            "hiragana": "おおい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "many; numerous; a lot; large quantity; frequent",
+        "level": "N5"
+    },
+    {
+        "vocab": "大きい",
+        "reading": {
+            "romaji": "ookii",
+            "hiragana": "おおきい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "big; large; great; important",
+        "level": "N5"
+    },
+    {
+        "vocab": "大きな",
+        "reading": {
+            "romaji": "ookina",
+            "hiragana": "おおきな"
+        },
+        "type": "Pre-noun adjectival",
+        "meaning": "big; large; great​",
+        "level": "N5"
+    },
+    {
+        "vocab": "大勢",
+        "reading": {
+            "romaji": "oozei",
+            "hiragana": "おおぜい"
+        },
+        "type": "Noun",
+        "meaning": "crowd of people; great number of people",
+        "level": "N5"
+    },
+    {
+        "vocab": "降りる",
+        "reading": {
+            "romaji": "oriru",
+            "hiragana": "おりる"
+        },
+        "type": "Verb, Ichidan verb, Intransitive verb",
+        "meaning": "to get off",
+        "level": "N5"
+    },
+    {
+        "vocab": "お酒",
+        "reading": {
+            "romaji": "osake",
+            "hiragana": "おさけ"
+        },
+        "type": "Noun",
+        "meaning": "alcohol",
+        "level": "N5"
+    },
+    {
+        "vocab": "お皿",
+        "reading": {
+            "romaji": "osara",
+            "hiragana": "おさら"
+        },
+        "type": "Noun",
+        "meaning": "plate, dish",
+        "level": "N5"
+    },
+    {
+        "vocab": "教える",
+        "reading": {
+            "romaji": "oshieru",
+            "hiragana": "おしえる"
+        },
+        "type": "Verb, Ichidan verb, Transitive verb",
+        "meaning": "to teach",
+        "level": "N5"
+    },
+    {
+        "vocab": "遅い",
+        "reading": {
+            "romaji": "osoi",
+            "hiragana": "おそい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "slow; time-consuming; late",
+        "level": "N5"
+    },
+    {
+        "vocab": "押す",
+        "reading": {
+            "romaji": "osu",
+            "hiragana": "おす"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to push; to press​",
+        "level": "N5"
+    },
+    {
+        "vocab": "お手洗い",
+        "reading": {
+            "romaji": "otearai",
+            "hiragana": "おてあらい"
+        },
+        "type": "Noun",
+        "meaning": "toilet; restroom; lavatory; bathroom",
+        "level": "N5"
+    },
+    {
+        "vocab": "男",
+        "reading": {
+            "romaji": "otoko",
+            "hiragana": "おとこ"
+        },
+        "type": "Noun",
+        "meaning": "man; male",
+        "level": "N5"
+    },
+    {
+        "vocab": "男の子",
+        "reading": {
+            "romaji": "otokonoko",
+            "hiragana": "おとこのこ"
+        },
+        "type": "Noun, Expression",
+        "meaning": "boy; male child; baby boy",
+        "level": "N5"
+    },
+    {
+        "vocab": "大人",
+        "reading": {
+            "romaji": "otona",
+            "hiragana": "おとな"
+        },
+        "type": "Noun",
+        "meaning": "adult",
+        "level": "N5"
+    },
+    {
+        "vocab": "一昨日",
+        "reading": {
+            "romaji": "ototoi",
+            "hiragana": "おととい"
+        },
+        "type": "Noun",
+        "meaning": "day before yesterday",
+        "level": "N5"
+    },
+    {
+        "vocab": "一昨年",
+        "reading": {
+            "romaji": "ototoshi",
+            "hiragana": "おととし"
+        },
+        "type": "Noun",
+        "meaning": "year before last",
+        "level": "N5"
+    },
+    {
+        "vocab": "お父さん",
+        "reading": {
+            "romaji": "otousan",
+            "hiragana": "おとうさん"
+        },
+        "type": "Noun",
+        "meaning": "father; dad; papa; pa; pop; daddy",
+        "level": "N5"
+    },
+    {
+        "vocab": "弟",
+        "reading": {
+            "romaji": "otouto",
+            "hiragana": "おとうと"
+        },
+        "type": "Noun",
+        "meaning": "younger brother",
+        "level": "N5"
+    },
+    {
+        "vocab": "終わる",
+        "reading": {
+            "romaji": "owaru",
+            "hiragana": "おわる"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to finish; to end",
+        "level": "N5"
+    },
+    {
+        "vocab": "泳ぐ",
+        "reading": {
+            "romaji": "oyogu",
+            "hiragana": "およぐ"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to swim",
+        "level": "N5"
+    },
+    {
+        "vocab": "パーティー",
+        "reading": {
+            "romaji": "paatii",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "party",
+        "level": "N5"
+    },
+    {
+        "vocab": "パン",
+        "reading": {
+            "romaji": "pan",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "bread",
+        "level": "N5"
+    },
+    {
+        "vocab": "ページ",
+        "reading": {
+            "romaji": "peeji",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "page",
+        "level": "N5"
+    },
+    {
+        "vocab": "ペン",
+        "reading": {
+            "romaji": "pen",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "pen",
+        "level": "N5"
+    },
+    {
+        "vocab": "ペット",
+        "reading": {
+            "romaji": "petto",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "pet",
+        "level": "N5"
+    },
+    {
+        "vocab": "ポケット",
+        "reading": {
+            "romaji": "poketto",
+            "hiragana": ""
+        },
+        "type": "Noun",
+        "meaning": "pocket",
+        "level": "N5"
+    },
+    {
+        "vocab": "ポスト",
+        "reading": {
+            "romaji": "posuto",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "post",
+        "level": "N5"
+    },
+    {
+        "vocab": "プール",
+        "reading": {
+            "romaji": "puuru",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "swimming pool",
+        "level": "N5"
+    },
+    {
+        "vocab": "来月",
+        "reading": {
+            "romaji": "raigetsu",
+            "hiragana": "らいげつ"
+        },
+        "type": "Noun",
+        "meaning": "next month",
+        "level": "N5"
+    },
+    {
+        "vocab": "来年",
+        "reading": {
+            "romaji": "rainen",
+            "hiragana": "らいねん"
+        },
+        "type": "Noun",
+        "meaning": "next year",
+        "level": "N5"
+    },
+    {
+        "vocab": "来週",
+        "reading": {
+            "romaji": "raishuu",
+            "hiragana": "らいしゅう"
+        },
+        "type": "Noun",
+        "meaning": "next week",
+        "level": "N5"
+    },
+    {
+        "vocab": "ラジオ",
+        "reading": {
+            "romaji": "rajiio",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "radio",
+        "level": "N5"
+    },
+    {
+        "vocab": "零",
+        "reading": {
+            "romaji": "rei",
+            "hiragana": "れい"
+        },
+        "type": "Noun",
+        "meaning": "zero",
+        "level": "N5"
+    },
+    {
+        "vocab": "冷蔵庫",
+        "reading": {
+            "romaji": "reizouko",
+            "hiragana": "れいぞうこ"
+        },
+        "type": "Noun",
+        "meaning": "refrigerator",
+        "level": "N5"
+    },
+    {
+        "vocab": "レコード",
+        "reading": {
+            "romaji": "rekoodo",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "record",
+        "level": "N5"
+    },
+    {
+        "vocab": "練習",
+        "reading": {
+            "romaji": "renshuu",
+            "hiragana": "れんしゅう"
+        },
+        "type": "Noun, Verb, Suru verb",
+        "meaning": "practice; practicing",
+        "level": "N5"
+    },
+    {
+        "vocab": "レストラン",
+        "reading": {
+            "romaji": "resutoran",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "restaurant",
+        "level": "N5"
+    },
+    {
+        "vocab": "立派",
+        "reading": {
+            "romaji": "rippa",
+            "hiragana": "りっぱ"
+        },
+        "type": "Adjective, な-adjective",
+        "meaning": "splendid",
+        "level": "N5"
+    },
+    {
+        "vocab": "六",
+        "reading": {
+            "romaji": "roku",
+            "hiragana": "ろく"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "six; 6",
+        "level": "N5"
+    },
+    {
+        "vocab": "廊下",
+        "reading": {
+            "romaji": "rouka",
+            "hiragana": "ろうか"
+        },
+        "type": "Noun",
+        "meaning": "corridor; hallway; passageway",
+        "level": "N5"
+    },
+    {
+        "vocab": "旅行",
+        "reading": {
+            "romaji": "ryokou",
+            "hiragana": "りょこう"
+        },
+        "type": "Noun, Verb, Suru verb",
+        "meaning": "travel; trip; journey; excursion; tour",
+        "level": "N5"
+    },
+    {
+        "vocab": "料理",
+        "reading": {
+            "romaji": "ryouri",
+            "hiragana": "りょうり"
+        },
+        "type": "Noun, Suru verb",
+        "meaning": "cuisine",
+        "level": "N5"
+    },
+    {
+        "vocab": "両親",
+        "reading": {
+            "romaji": "ryoushin",
+            "hiragana": "りょうしん"
+        },
+        "type": "Noun",
+        "meaning": "parents; both parents",
+        "level": "N5"
+    },
+    {
+        "vocab": "留学生",
+        "reading": {
+            "romaji": "ryuugakusei",
+            "hiragana": "りゅうがくせい"
+        },
+        "type": "Noun",
+        "meaning": "overseas student; exchange student",
+        "level": "N5"
+    },
+    {
+        "vocab": "さあ",
+        "reading": {
+            "romaji": "saa",
+            "hiragana": ""
+        },
+        "type": "Conjunction",
+        "meaning": "well…",
+        "level": "N5"
+    },
+    {
+        "vocab": "財布",
+        "reading": {
+            "romaji": "saifu",
+            "hiragana": "さいふ"
+        },
+        "type": "Noun",
+        "meaning": "purse; wallet",
+        "level": "N5"
+    },
+    {
+        "vocab": "魚",
+        "reading": {
+            "romaji": "sakana",
+            "hiragana": "さかな"
+        },
+        "type": "Noun",
+        "meaning": "fish",
+        "level": "N5"
+    },
+    {
+        "vocab": "先",
+        "reading": {
+            "romaji": "saki",
+            "hiragana": "さき"
+        },
+        "type": "Noun, Prefix, Suffix",
+        "meaning": "previous; prior; first; earlier",
+        "level": "N5"
+    },
+    {
+        "vocab": "咲く",
+        "reading": {
+            "romaji": "saku",
+            "hiragana": "さく"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to bloom",
+        "level": "N5"
+    },
+    {
+        "vocab": "作文",
+        "reading": {
+            "romaji": "sakubun",
+            "hiragana": "さくぶん"
+        },
+        "type": "Noun",
+        "meaning": "writing; composition",
+        "level": "N5"
+    },
+    {
+        "vocab": "寒い",
+        "reading": {
+            "romaji": "samui",
+            "hiragana": "さむい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "cold",
+        "level": "N5"
+    },
+    {
+        "vocab": "三",
+        "reading": {
+            "romaji": "san",
+            "hiragana": "さん"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "three; 3",
+        "level": "N5"
+    },
+    {
+        "vocab": "散歩",
+        "reading": {
+            "romaji": "sanpo",
+            "hiragana": "さんぽ"
+        },
+        "type": "Noun, Verb, Suru verb",
+        "meaning": "walk; stroll",
+        "level": "N5"
+    },
+    {
+        "vocab": "再来年",
+        "reading": {
+            "romaji": "sarainen",
+            "hiragana": "さらいねん"
+        },
+        "type": "Noun",
+        "meaning": "year after next",
+        "level": "N5"
+    },
+    {
+        "vocab": "差す",
+        "reading": {
+            "romaji": "sasu",
+            "hiragana": "さす"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to stretch out hands, to raise an umbrella",
+        "level": "N5"
+    },
+    {
+        "vocab": "砂糖",
+        "reading": {
+            "romaji": "satou",
+            "hiragana": "さとう"
+        },
+        "type": "Noun",
+        "meaning": "sugar",
+        "level": "N5"
+    },
+    {
+        "vocab": "背",
+        "reading": {
+            "romaji": "se",
+            "hiragana": "せ"
+        },
+        "type": "Noun",
+        "meaning": "height; stature; back; spine",
+        "level": "N5"
+    },
+    {
+        "vocab": "背広",
+        "reading": {
+            "romaji": "sebiro",
+            "hiragana": "せびろ"
+        },
+        "type": "Noun",
+        "meaning": "business suit",
+        "level": "N5"
+    },
+    {
+        "vocab": "セーター",
+        "reading": {
+            "romaji": "seetaa",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "sweater; jumper",
+        "level": "N5"
+    },
+    {
+        "vocab": "生徒",
+        "reading": {
+            "romaji": "seito",
+            "hiragana": "せいと"
+        },
+        "type": "Noun",
+        "meaning": "pupil; student",
+        "level": "N5"
+    },
+    {
+        "vocab": "石鹼",
+        "reading": {
+            "romaji": "sekken",
+            "hiragana": "せっけん"
+        },
+        "type": "Noun",
+        "meaning": "soap",
+        "level": "N5"
+    },
+    {
+        "vocab": "狭い",
+        "reading": {
+            "romaji": "semai",
+            "hiragana": "せまい"
+        },
+        "type": "い-adjective",
+        "meaning": "narrow",
+        "level": "N5"
+    },
+    {
+        "vocab": "千",
+        "reading": {
+            "romaji": "sen",
+            "hiragana": "せん"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "1,000; thousand",
+        "level": "N5"
+    },
+    {
+        "vocab": "先月",
+        "reading": {
+            "romaji": "sengetsu",
+            "hiragana": "せんげつ"
+        },
+        "type": "Noun",
+        "meaning": "last month",
+        "level": "N5"
+    },
+    {
+        "vocab": "先生",
+        "reading": {
+            "romaji": "sensei",
+            "hiragana": "せんせい"
+        },
+        "type": "Noun, Suffix",
+        "meaning": "teacher; instructor; master",
+        "level": "N5"
+    },
+    {
+        "vocab": "先週",
+        "reading": {
+            "romaji": "senshuu",
+            "hiragana": "せんしゅう"
+        },
+        "type": "Noun",
+        "meaning": "last week",
+        "level": "N5"
+    },
+    {
+        "vocab": "洗濯",
+        "reading": {
+            "romaji": "sentaku",
+            "hiragana": "せんたく"
+        },
+        "type": "Noun, Suru verb",
+        "meaning": "washing; laundry",
+        "level": "N5"
+    },
+    {
+        "vocab": "写真",
+        "reading": {
+            "romaji": "shashin",
+            "hiragana": "しゃしん"
+        },
+        "type": "Noun",
+        "meaning": "photograph; photo",
+        "level": "N5"
+    },
+    {
+        "vocab": "シャツ",
+        "reading": {
+            "romaji": "shatsu",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "shirt",
+        "level": "N5"
+    },
+    {
+        "vocab": "シャワー",
+        "reading": {
+            "romaji": "shawaa",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "shower",
+        "level": "N5"
+    },
+    {
+        "vocab": "四",
+        "reading": {
+            "romaji": "shi",
+            "hiragana": "し"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "four; 4",
+        "level": "N5"
+    },
+    {
+        "vocab": "七",
+        "reading": {
+            "romaji": "shichi",
+            "hiragana": "しち"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "seven; 7",
+        "level": "N5"
+    },
+    {
+        "vocab": "仕事",
+        "reading": {
+            "romaji": "shigoto",
+            "hiragana": "しごと"
+        },
+        "type": "Noun, Verb, Suru verb",
+        "meaning": "work; job; business",
+        "level": "N5"
+    },
+    {
+        "vocab": "閉まる",
+        "reading": {
+            "romaji": "shimaru",
+            "hiragana": "しまる"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to close, to be closed",
+        "level": "N5"
+    },
+    {
+        "vocab": "閉める",
+        "reading": {
+            "romaji": "shimeru",
+            "hiragana": "しめる"
+        },
+        "type": "Verb, Ichidan verb, Transitive verb",
+        "meaning": "to close; to shut",
+        "level": "N5"
+    },
+    {
+        "vocab": "締める",
+        "reading": {
+            "romaji": "shimeru",
+            "hiragana": "しめる"
+        },
+        "type": "Verb, Ichidan verb, Transitive verb",
+        "meaning": "to tie; to fasten; to tighten​",
+        "level": "N5"
+    },
+    {
+        "vocab": "新聞",
+        "reading": {
+            "romaji": "shinbun",
+            "hiragana": "しんぶん"
+        },
+        "type": "Noun",
+        "meaning": "newspaper",
+        "level": "N5"
+    },
+    {
+        "vocab": "死ぬ",
+        "reading": {
+            "romaji": "shinu",
+            "hiragana": "しぬ"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to die",
+        "level": "N5"
+    },
+    {
+        "vocab": "塩",
+        "reading": {
+            "romaji": "shio",
+            "hiragana": "しお"
+        },
+        "type": "Noun",
+        "meaning": "salt",
+        "level": "N5"
+    },
+    {
+        "vocab": "白",
+        "reading": {
+            "romaji": "shiro",
+            "hiragana": "しろ"
+        },
+        "type": "Noun",
+        "meaning": "white; innocence; innocent person",
+        "level": "N5"
+    },
+    {
+        "vocab": "白い",
+        "reading": {
+            "romaji": "shiroi",
+            "hiragana": "しろい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "white",
+        "level": "N5"
+    },
+    {
+        "vocab": "知る",
+        "reading": {
+            "romaji": "shiru",
+            "hiragana": "しる"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to know",
+        "level": "N5"
+    },
+    {
+        "vocab": "下",
+        "reading": {
+            "romaji": "shita",
+            "hiragana": "した"
+        },
+        "type": "Noun",
+        "meaning": "below; down; under; bottom",
+        "level": "N5"
+    },
+    {
+        "vocab": "質問",
+        "reading": {
+            "romaji": "shitsumon",
+            "hiragana": "しつもん"
+        },
+        "type": "Noun, Verb, Suru verb",
+        "meaning": "question; inquiry",
+        "level": "N5"
+    },
+    {
+        "vocab": "静か",
+        "reading": {
+            "romaji": "shizuka",
+            "hiragana": "しずか"
+        },
+        "type": "Adjective, な-adjective",
+        "meaning": "quiet",
+        "level": "N5"
+    },
+    {
+        "vocab": "食堂",
+        "reading": {
+            "romaji": "shokudou",
+            "hiragana": "しょくどう"
+        },
+        "type": "Noun",
+        "meaning": "cafeteria; dining room",
+        "level": "N5"
+    },
+    {
+        "vocab": "醬油",
+        "reading": {
+            "romaji": "shouyu",
+            "hiragana": "しょうゆ"
+        },
+        "type": "Noun",
+        "meaning": "soy sauce",
+        "level": "N5"
+    },
+    {
+        "vocab": "宿題",
+        "reading": {
+            "romaji": "shukudai",
+            "hiragana": "しゅくだい"
+        },
+        "type": "Noun",
+        "meaning": "homework; assignment; pending issue",
+        "level": "N5"
+    },
+    {
+        "vocab": "そば",
+        "reading": {
+            "romaji": "soba",
+            "hiragana": ""
+        },
+        "type": "Noun",
+        "meaning": "near; beside",
+        "level": "N5"
+    },
+    {
+        "vocab": "そっち",
+        "reading": {
+            "romaji": "socchi",
+            "hiragana": ""
+        },
+        "type": "Pronoun",
+        "meaning": "that way; ​over there",
+        "level": "N5"
+    },
+    {
+        "vocab": "そちら",
+        "reading": {
+            "romaji": "sochira",
+            "hiragana": ""
+        },
+        "type": "Pronoun",
+        "meaning": "that way (distant from speaker, close to listener); you; your family",
+        "level": "N5"
+    },
+    {
+        "vocab": "そこ",
+        "reading": {
+            "romaji": "soko",
+            "hiragana": ""
+        },
+        "type": "Pronoun",
+        "meaning": "that place​; there",
+        "level": "N5"
+    },
+    {
+        "vocab": "その",
+        "reading": {
+            "romaji": "sono",
+            "hiragana": ""
+        },
+        "type": "Pre-noun adjectival",
+        "meaning": "that",
+        "level": "N5"
+    },
+    {
+        "vocab": "空",
+        "reading": {
+            "romaji": "sora",
+            "hiragana": "そら"
+        },
+        "type": "Noun",
+        "meaning": "sky; the air",
+        "level": "N5"
+    },
+    {
+        "vocab": "それ",
+        "reading": {
+            "romaji": "sore",
+            "hiragana": ""
+        },
+        "type": "Pronoun",
+        "meaning": "that",
+        "level": "N5"
+    },
+    {
+        "vocab": "それでは",
+        "reading": {
+            "romaji": "sore dewa",
+            "hiragana": ""
+        },
+        "type": "Expression",
+        "meaning": "in that situation",
+        "level": "N5"
+    },
+    {
+        "vocab": "外",
+        "reading": {
+            "romaji": "soto",
+            "hiragana": "そと"
+        },
+        "type": "Noun",
+        "meaning": "outside; exterior;",
+        "level": "N5"
+    },
+    {
+        "vocab": "掃除",
+        "reading": {
+            "romaji": "souji",
+            "hiragana": "そうじ"
+        },
+        "type": "Noun, Suru verb",
+        "meaning": "to clean, to sweep",
+        "level": "N5"
+    },
+    {
+        "vocab": "直ぐに",
+        "reading": {
+            "romaji": "sugu ni",
+            "hiragana": "すぐに"
+        },
+        "type": "Adverb",
+        "meaning": "immediately; right away; instantly​",
+        "level": "N5"
+    },
+    {
+        "vocab": "水曜日",
+        "reading": {
+            "romaji": "suiyoubi",
+            "hiragana": "すいようび"
+        },
+        "type": "Noun",
+        "meaning": "Wednesday",
+        "level": "N5"
+    },
+    {
+        "vocab": "スカート",
+        "reading": {
+            "romaji": "sukaato",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "skirt",
+        "level": "N5"
+    },
+    {
+        "vocab": "好き",
+        "reading": {
+            "romaji": "suki",
+            "hiragana": "すき"
+        },
+        "type": "Noun, Adjective, な-adjective",
+        "meaning": "like",
+        "level": "N5"
+    },
+    {
+        "vocab": "少し",
+        "reading": {
+            "romaji": "sukoshi",
+            "hiragana": "すこし"
+        },
+        "type": "Noun, Adverb",
+        "meaning": "a little (bit); small quantity; few; short distance",
+        "level": "N5"
+    },
+    {
+        "vocab": "少ない",
+        "reading": {
+            "romaji": "sukunai",
+            "hiragana": "すくない"
+        },
+        "type": "い-adjective",
+        "meaning": "few; a little; scarce; insufficient; seldom",
+        "level": "N5"
+    },
+    {
+        "vocab": "住む",
+        "reading": {
+            "romaji": "sumu",
+            "hiragana": "すむ"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to live in; to reside; to inhabit; to dwell; to abide",
+        "level": "N5"
+    },
+    {
+        "vocab": "スポーツ",
+        "reading": {
+            "romaji": "supootsu",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "sport; sports",
+        "level": "N5"
+    },
+    {
+        "vocab": "スプーン",
+        "reading": {
+            "romaji": "supuun",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "spoon",
+        "level": "N5"
+    },
+    {
+        "vocab": "スリッパ",
+        "reading": {
+            "romaji": "surippa",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "slipper; slippers",
+        "level": "N5"
+    },
+    {
+        "vocab": "ストーブ",
+        "reading": {
+            "romaji": "sutoobu",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "heater; stove",
+        "level": "N5"
+    },
+    {
+        "vocab": "吸う",
+        "reading": {
+            "romaji": "suu",
+            "hiragana": "すう"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to smoke, to suck",
+        "level": "N5"
+    },
+    {
+        "vocab": "座る",
+        "reading": {
+            "romaji": "suwaru",
+            "hiragana": "すわる"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to sit",
+        "level": "N5"
+    },
+    {
+        "vocab": "涼しい",
+        "reading": {
+            "romaji": "suzushii",
+            "hiragana": "すずしい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "refreshing, cool",
+        "level": "N5"
+    },
+    {
+        "vocab": "たばこ",
+        "reading": {
+            "romaji": "tabako",
+            "hiragana": ""
+        },
+        "type": "Noun",
+        "meaning": "tobacco; cigarette",
+        "level": "N5"
+    },
+    {
+        "vocab": "食べ物",
+        "reading": {
+            "romaji": "tabemono",
+            "hiragana": "たべもの"
+        },
+        "type": "Noun",
+        "meaning": "food",
+        "level": "N5"
+    },
+    {
+        "vocab": "食べる",
+        "reading": {
+            "romaji": "taberu",
+            "hiragana": "たべる"
+        },
+        "type": "Verb, Ichidan verb, Intransitive verb",
+        "meaning": "to eat",
+        "level": "N5"
+    },
+    {
+        "vocab": "多分",
+        "reading": {
+            "romaji": "tabun",
+            "hiragana": "たぶん"
+        },
+        "type": "Adjective, な-adjective, Adverb",
+        "meaning": "perhaps; probably",
+        "level": "N5"
+    },
+    {
+        "vocab": "大変",
+        "reading": {
+            "romaji": "taihen",
+            "hiragana": "たいへん"
+        },
+        "type": "Noun, Adjective, な-adjective, Adverb",
+        "meaning": "very; greatly; terribly; serious; difficult",
+        "level": "N5"
+    },
+    {
+        "vocab": "大切",
+        "reading": {
+            "romaji": "taisetsu",
+            "hiragana": "たいせつ"
+        },
+        "type": "Noun, Adjective, な-adjective",
+        "meaning": "important; necessary; indispensable; beloved",
+        "level": "N5"
+    },
+    {
+        "vocab": "大使館",
+        "reading": {
+            "romaji": "taishikan",
+            "hiragana": "たいしかん"
+        },
+        "type": "Noun",
+        "meaning": "embassy",
+        "level": "N5"
+    },
+    {
+        "vocab": "高い",
+        "reading": {
+            "romaji": "takai",
+            "hiragana": "たかい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "high; tall; expensive; above average",
+        "level": "N5"
+    },
+    {
+        "vocab": "沢山",
+        "reading": {
+            "romaji": "takusan",
+            "hiragana": "たくさん"
+        },
+        "type": "Noun, Adverbial Noun, Adjective, な-adjective",
+        "meaning": "many",
+        "level": "N5"
+    },
+    {
+        "vocab": "タクシー",
+        "reading": {
+            "romaji": "takushii",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "taxi",
+        "level": "N5"
+    },
+    {
+        "vocab": "卵",
+        "reading": {
+            "romaji": "tamago",
+            "hiragana": "たまご"
+        },
+        "type": "Noun",
+        "meaning": "eggs; egg",
+        "level": "N5"
+    },
+    {
+        "vocab": "誕生日",
+        "reading": {
+            "romaji": "tanjoubi",
+            "hiragana": "たんじょうび"
+        },
+        "type": "Noun",
+        "meaning": "birthday",
+        "level": "N5"
+    },
+    {
+        "vocab": "頼む",
+        "reading": {
+            "romaji": "tanomu",
+            "hiragana": "たのむ"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to ask",
+        "level": "N5"
+    },
+    {
+        "vocab": "楽しい",
+        "reading": {
+            "romaji": "tanoshii",
+            "hiragana": "たのしい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "enjoyable; fun",
+        "level": "N5"
+    },
+    {
+        "vocab": "縦",
+        "reading": {
+            "romaji": "tate",
+            "hiragana": "たて"
+        },
+        "type": "Noun",
+        "meaning": "length,height",
+        "level": "N5"
+    },
+    {
+        "vocab": "建物",
+        "reading": {
+            "romaji": "tatemono",
+            "hiragana": "たてもの"
+        },
+        "type": "Noun",
+        "meaning": "building",
+        "level": "N5"
+    },
+    {
+        "vocab": "立つ",
+        "reading": {
+            "romaji": "tatsu",
+            "hiragana": "たつ"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to stand; to stand up​",
+        "level": "N5"
+    },
+    {
+        "vocab": "手",
+        "reading": {
+            "romaji": "te",
+            "hiragana": "て"
+        },
+        "type": "Noun",
+        "meaning": "hand; arm",
+        "level": "N5"
+    },
+    {
+        "vocab": "テーブル",
+        "reading": {
+            "romaji": "teeburu",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "table",
+        "level": "N5"
+    },
+    {
+        "vocab": "テープ",
+        "reading": {
+            "romaji": "teepu",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "tape",
+        "level": "N5"
+    },
+    {
+        "vocab": "テープレコーダー",
+        "reading": {
+            "romaji": "teepu rekoodaa",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "tape recorder",
+        "level": "N5"
+    },
+    {
+        "vocab": "手紙",
+        "reading": {
+            "romaji": "tegami",
+            "hiragana": "てがみ"
+        },
+        "type": "Noun",
+        "meaning": "Letter (message)​",
+        "level": "N5"
+    },
+    {
+        "vocab": "天気",
+        "reading": {
+            "romaji": "tenki",
+            "hiragana": "てんき"
+        },
+        "type": "Noun",
+        "meaning": "weather; the elements",
+        "level": "N5"
+    },
+    {
+        "vocab": "テレビ",
+        "reading": {
+            "romaji": "terebi",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "television; TV​",
+        "level": "N5"
+    },
+    {
+        "vocab": "テスト",
+        "reading": {
+            "romaji": "tesuto",
+            "hiragana": ""
+        },
+        "type": "Noun, Suru verb, Katakana",
+        "meaning": "examination; quiz; test",
+        "level": "N5"
+    },
+    {
+        "vocab": "戸",
+        "reading": {
+            "romaji": "to",
+            "hiragana": "と"
+        },
+        "type": "Noun",
+        "meaning": "Japanese style door",
+        "level": "N5"
+    },
+    {
+        "vocab": "飛ぶ",
+        "reading": {
+            "romaji": "tobu",
+            "hiragana": "とぶ"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to fly; to hop",
+        "level": "N5"
+    },
+    {
+        "vocab": "トイレ",
+        "reading": {
+            "romaji": "toire",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "toilet",
+        "level": "N5"
+    },
+    {
+        "vocab": "時計",
+        "reading": {
+            "romaji": "tokei",
+            "hiragana": "とけい"
+        },
+        "type": "Noun",
+        "meaning": "watch; clock; timepiece",
+        "level": "N5"
+    },
+    {
+        "vocab": "時",
+        "reading": {
+            "romaji": "toki",
+            "hiragana": "とき"
+        },
+        "type": "Noun",
+        "meaning": "time; moment; occasion; chance",
+        "level": "N5"
+    },
+    {
+        "vocab": "時々",
+        "reading": {
+            "romaji": "tokidoki",
+            "hiragana": "ときどき"
+        },
+        "type": "Noun, Adverb",
+        "meaning": "sometimes; at times",
+        "level": "N5"
+    },
+    {
+        "vocab": "所",
+        "reading": {
+            "romaji": "tokoro",
+            "hiragana": "ところ"
+        },
+        "type": "Noun, Suffix",
+        "meaning": "place",
+        "level": "N5"
+    },
+    {
+        "vocab": "止まる",
+        "reading": {
+            "romaji": "tomaru",
+            "hiragana": "とまる"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to stop; to come to a halt",
+        "level": "N5"
+    },
+    {
+        "vocab": "友達",
+        "reading": {
+            "romaji": "tomodachi",
+            "hiragana": "ともだち"
+        },
+        "type": "Noun",
+        "meaning": "friend; companion",
+        "level": "N5"
+    },
+    {
+        "vocab": "隣",
+        "reading": {
+            "romaji": "tonari",
+            "hiragana": "となり"
+        },
+        "type": "Noun",
+        "meaning": "next door to",
+        "level": "N5"
+    },
+    {
+        "vocab": "遠い",
+        "reading": {
+            "romaji": "tooi",
+            "hiragana": "とおい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "far",
+        "level": "N5"
+    },
+    {
+        "vocab": "十日",
+        "reading": {
+            "romaji": "tooka",
+            "hiragana": "とおか"
+        },
+        "type": "Noun",
+        "meaning": "tenth day of the month / 10 days",
+        "level": "N5"
+    },
+    {
+        "vocab": "鳥",
+        "reading": {
+            "romaji": "tori",
+            "hiragana": "とり"
+        },
+        "type": "Noun",
+        "meaning": "bird",
+        "level": "N5"
+    },
+    {
+        "vocab": "鶏肉",
+        "reading": {
+            "romaji": "toriniku",
+            "hiragana": "とりにく"
+        },
+        "type": "Noun",
+        "meaning": "chicken meat",
+        "level": "N5"
+    },
+    {
+        "vocab": "取る",
+        "reading": {
+            "romaji": "toru",
+            "hiragana": "とる"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to take; to pick up; to harvest; to earn; to win; to choose",
+        "level": "N5"
+    },
+    {
+        "vocab": "撮る",
+        "reading": {
+            "romaji": "toru",
+            "hiragana": "とる"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to take a photo or record a film",
+        "level": "N5"
+    },
+    {
+        "vocab": "年",
+        "reading": {
+            "romaji": "toshi",
+            "hiragana": "とし"
+        },
+        "type": "Noun",
+        "meaning": "year; age",
+        "level": "N5"
+    },
+    {
+        "vocab": "図書館",
+        "reading": {
+            "romaji": "toshokan",
+            "hiragana": "としょかん"
+        },
+        "type": "Noun",
+        "meaning": "library",
+        "level": "N5"
+    },
+    {
+        "vocab": "次",
+        "reading": {
+            "romaji": "tsugi",
+            "hiragana": "つぎ"
+        },
+        "type": "Noun",
+        "meaning": "next",
+        "level": "N5"
+    },
+    {
+        "vocab": "一日",
+        "reading": {
+            "romaji": "tsuitachi",
+            "hiragana": "ついたち"
+        },
+        "type": "Noun",
+        "meaning": "first day of the month",
+        "level": "N5"
+    },
+    {
+        "vocab": "疲れる",
+        "reading": {
+            "romaji": "tsukareru",
+            "hiragana": "つかれる"
+        },
+        "type": "Verb, Ichidan verb, Intransitive verb",
+        "meaning": "to get tired",
+        "level": "N5"
+    },
+    {
+        "vocab": "使う",
+        "reading": {
+            "romaji": "tsukau",
+            "hiragana": "つかう"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to use",
+        "level": "N5"
+    },
+    {
+        "vocab": "つける",
+        "reading": {
+            "romaji": "tsukeru",
+            "hiragana": ""
+        },
+        "type": "Verb, Ichidan verb, Transitive verb",
+        "meaning": "to turn on",
+        "level": "N5"
+    },
+    {
+        "vocab": "付ける",
+        "reading": {
+            "romaji": "tsukeru",
+            "hiragana": "つける"
+        },
+        "type": "Verb, Ichidan verb, Transitive verb",
+        "meaning": "to attach; affix; add; apply",
+        "level": "N5"
+    },
+    {
+        "vocab": "着く",
+        "reading": {
+            "romaji": "tsuku",
+            "hiragana": "つく"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to arrive at",
+        "level": "N5"
+    },
+    {
+        "vocab": "机",
+        "reading": {
+            "romaji": "tsukue",
+            "hiragana": "つくえ"
+        },
+        "type": "Noun",
+        "meaning": "desk",
+        "level": "N5"
+    },
+    {
+        "vocab": "作る",
+        "reading": {
+            "romaji": "tsukuru",
+            "hiragana": "つくる"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to make",
+        "level": "N5"
+    },
+    {
+        "vocab": "詰まらない",
+        "reading": {
+            "romaji": "tsumaranai",
+            "hiragana": "つまらない"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "boring",
+        "level": "N5"
+    },
+    {
+        "vocab": "冷たい",
+        "reading": {
+            "romaji": "tsumetai",
+            "hiragana": "つめたい"
+        },
+        "type": "い-adjective",
+        "meaning": "cold to the touch",
+        "level": "N5"
+    },
+    {
+        "vocab": "勤める",
+        "reading": {
+            "romaji": "tsutomeru",
+            "hiragana": "つとめる"
+        },
+        "type": "Verb, Ichidan verb, Transitive verb",
+        "meaning": "to work for someone",
+        "level": "N5"
+    },
+    {
+        "vocab": "強い",
+        "reading": {
+            "romaji": "tsuyoi",
+            "hiragana": "つよい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "powerful",
+        "level": "N5"
+    },
+    {
+        "vocab": "上",
+        "reading": {
+            "romaji": "ue",
+            "hiragana": "うえ"
+        },
+        "type": "Noun, Suffix",
+        "meaning": "above; up; over; top; surface",
+        "level": "N5"
+    },
+    {
+        "vocab": "生まれる",
+        "reading": {
+            "romaji": "umareru",
+            "hiragana": "うまれる"
+        },
+        "type": "Verb, Ichidan verb, Intransitive verb",
+        "meaning": "to be born",
+        "level": "N5"
+    },
+    {
+        "vocab": "海",
+        "reading": {
+            "romaji": "umi",
+            "hiragana": "うみ"
+        },
+        "type": "Noun",
+        "meaning": "sea",
+        "level": "N5"
+    },
+    {
+        "vocab": "売る",
+        "reading": {
+            "romaji": "uru",
+            "hiragana": "うる"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to sell",
+        "level": "N5"
+    },
+    {
+        "vocab": "煩い",
+        "reading": {
+            "romaji": "urusai",
+            "hiragana": "うるさい"
+        },
+        "type": "い-adjective",
+        "meaning": "noisy, annoying",
+        "level": "N5"
+    },
+    {
+        "vocab": "後ろ",
+        "reading": {
+            "romaji": "ushiro",
+            "hiragana": "うしろ"
+        },
+        "type": "Noun",
+        "meaning": "back; behind; rear",
+        "level": "N5"
+    },
+    {
+        "vocab": "薄い",
+        "reading": {
+            "romaji": "usui",
+            "hiragana": "うすい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "thin; weak",
+        "level": "N5"
+    },
+    {
+        "vocab": "歌",
+        "reading": {
+            "romaji": "uta",
+            "hiragana": "うた"
+        },
+        "type": "Noun",
+        "meaning": "song",
+        "level": "N5"
+    },
+    {
+        "vocab": "歌う",
+        "reading": {
+            "romaji": "utau",
+            "hiragana": "うたう"
+        },
+        "type": "Verb, Godan verb, Intransitive verb, Transitive verb",
+        "meaning": "to sing",
+        "level": "N5"
+    },
+    {
+        "vocab": "上着",
+        "reading": {
+            "romaji": "uwagi",
+            "hiragana": "うわぎ"
+        },
+        "type": "Noun",
+        "meaning": "coat; tunic; jacket; outer garment",
+        "level": "N5"
+    },
+    {
+        "vocab": "ワイシャツ",
+        "reading": {
+            "romaji": "wai shatsu",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana, Wasei",
+        "meaning": "shirt",
+        "level": "N5"
+    },
+    {
+        "vocab": "若い",
+        "reading": {
+            "romaji": "wakai",
+            "hiragana": "わかい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "young",
+        "level": "N5"
+    },
+    {
+        "vocab": "分かる",
+        "reading": {
+            "romaji": "wakaru",
+            "hiragana": "わかる"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to understand; to comprehend; to grasp; to see; to get; to follow",
+        "level": "N5"
+    },
+    {
+        "vocab": "悪い",
+        "reading": {
+            "romaji": "warui",
+            "hiragana": "わるい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "bad; poor; undesirable",
+        "level": "N5"
+    },
+    {
+        "vocab": "忘れる",
+        "reading": {
+            "romaji": "wasureru",
+            "hiragana": "わすれる"
+        },
+        "type": "Verb, Ichidan verb, Transitive verb",
+        "meaning": "to forget",
+        "level": "N5"
+    },
+    {
+        "vocab": "渡る",
+        "reading": {
+            "romaji": "wataru",
+            "hiragana": "わたる"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to go across",
+        "level": "N5"
+    },
+    {
+        "vocab": "私",
+        "reading": {
+            "romaji": "watashi",
+            "hiragana": "わたし"
+        },
+        "type": "Pronoun",
+        "meaning": "I; myself",
+        "level": "N5"
+    },
+    {
+        "vocab": "渡す",
+        "reading": {
+            "romaji": "watasu",
+            "hiragana": "わたす"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to hand over",
+        "level": "N5"
+    },
+    {
+        "vocab": "山",
+        "reading": {
+            "romaji": "yama",
+            "hiragana": "やま"
+        },
+        "type": "Noun",
+        "meaning": "mountain; hill",
+        "level": "N5"
+    },
+    {
+        "vocab": "八百屋",
+        "reading": {
+            "romaji": "yaoya",
+            "hiragana": "やおや"
+        },
+        "type": "Noun",
+        "meaning": "greengrocer; fruit and vegetable shop; versatile",
+        "level": "N5"
+    },
+    {
+        "vocab": "やる",
+        "reading": {
+            "romaji": "yaru",
+            "hiragana": ""
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to do",
+        "level": "N5"
+    },
+    {
+        "vocab": "野菜",
+        "reading": {
+            "romaji": "yasai",
+            "hiragana": "やさい"
+        },
+        "type": "Noun",
+        "meaning": "vegetable",
+        "level": "N5"
+    },
+    {
+        "vocab": "易しい",
+        "reading": {
+            "romaji": "yasashii",
+            "hiragana": "やさしい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "easy, simple",
+        "level": "N5"
+    },
+    {
+        "vocab": "安い",
+        "reading": {
+            "romaji": "yasui",
+            "hiragana": "やすい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "cheap; inexpensive",
+        "level": "N5"
+    },
+    {
+        "vocab": "休み",
+        "reading": {
+            "romaji": "yasumi",
+            "hiragana": "やすみ"
+        },
+        "type": "Noun",
+        "meaning": "rest; vacation; holiday",
+        "level": "N5"
+    },
+    {
+        "vocab": "休む",
+        "reading": {
+            "romaji": "yasumu",
+            "hiragana": "やすむ"
+        },
+        "type": "Verb, Godan verb, Intransitive verb",
+        "meaning": "to be absent; to take a day off; to rest",
+        "level": "N5"
+    },
+    {
+        "vocab": "八つ",
+        "reading": {
+            "romaji": "yattsu",
+            "hiragana": "やっつ"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "eight: 8",
+        "level": "N5"
+    },
+    {
+        "vocab": "呼ぶ",
+        "reading": {
+            "romaji": "yobu",
+            "hiragana": "よぶ"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to call out, to invite",
+        "level": "N5"
+    },
+    {
+        "vocab": "良い",
+        "reading": {
+            "romaji": "yoi/ii",
+            "hiragana": "よい/いい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "good",
+        "level": "N5"
+    },
+    {
+        "vocab": "四日",
+        "reading": {
+            "romaji": "yokka",
+            "hiragana": "よっか"
+        },
+        "type": "Noun",
+        "meaning": "fourth day of the month / 4 days",
+        "level": "N5"
+    },
+    {
+        "vocab": "横",
+        "reading": {
+            "romaji": "yoko",
+            "hiragana": "よこ"
+        },
+        "type": "Noun",
+        "meaning": "beside,side,width",
+        "level": "N5"
+    },
+    {
+        "vocab": "よく",
+        "reading": {
+            "romaji": "yoku",
+            "hiragana": ""
+        },
+        "type": "Adverb",
+        "meaning": "often, well",
+        "level": "N5"
+    },
+    {
+        "vocab": "読む",
+        "reading": {
+            "romaji": "yomu",
+            "hiragana": "よむ"
+        },
+        "type": "Verb, Godan verb, Transitive verb",
+        "meaning": "to read; to guess; to predict; to read (someone's thoughts)",
+        "level": "N5"
+    },
+    {
+        "vocab": "夜",
+        "reading": {
+            "romaji": "yoru",
+            "hiragana": "よる"
+        },
+        "type": "Noun",
+        "meaning": "evening; night",
+        "level": "N5"
+    },
+    {
+        "vocab": "四つ",
+        "reading": {
+            "romaji": "yotsu",
+            "hiragana": "よつ"
+        },
+        "type": "Noun, Numeric",
+        "meaning": "four; 4",
+        "level": "N5"
+    },
+    {
+        "vocab": "洋服",
+        "reading": {
+            "romaji": "youfuku",
+            "hiragana": "ようふく"
+        },
+        "type": "Noun",
+        "meaning": "western clothes",
+        "level": "N5"
+    },
+    {
+        "vocab": "八日",
+        "reading": {
+            "romaji": "youka",
+            "hiragana": "ようか"
+        },
+        "type": "Noun",
+        "meaning": "eighth day of the month / 8 days",
+        "level": "N5"
+    },
+    {
+        "vocab": "弱い",
+        "reading": {
+            "romaji": "yowai",
+            "hiragana": "よわい"
+        },
+        "type": "Adjective, い-adjective",
+        "meaning": "weak",
+        "level": "N5"
+    },
+    {
+        "vocab": "雪",
+        "reading": {
+            "romaji": "yuki",
+            "hiragana": "ゆき"
+        },
+        "type": "Noun",
+        "meaning": "snow",
+        "level": "N5"
+    },
+    {
+        "vocab": "ゆっくり",
+        "reading": {
+            "romaji": "yukkuri",
+            "hiragana": ""
+        },
+        "type": "Adverb",
+        "meaning": "slowly",
+        "level": "N5"
+    },
+    {
+        "vocab": "昨夜",
+        "reading": {
+            "romaji": "yuube",
+            "hiragana": "ゆうべ"
+        },
+        "type": "Noun",
+        "meaning": "last night",
+        "level": "N5"
+    },
+    {
+        "vocab": "郵便局",
+        "reading": {
+            "romaji": "yuubinkyoku",
+            "hiragana": "ゆうびんきょく"
+        },
+        "type": "Noun",
+        "meaning": "post office",
+        "level": "N5"
+    },
+    {
+        "vocab": "夕方",
+        "reading": {
+            "romaji": "yuugata",
+            "hiragana": "ゆうがた"
+        },
+        "type": "Noun",
+        "meaning": "evening; dusk",
+        "level": "N5"
+    },
+    {
+        "vocab": "夕飯",
+        "reading": {
+            "romaji": "yuuhan",
+            "hiragana": "ゆうはん"
+        },
+        "type": "Noun",
+        "meaning": "evening meal",
+        "level": "N5"
+    },
+    {
+        "vocab": "有名",
+        "reading": {
+            "romaji": "yuumei",
+            "hiragana": "ゆうめい"
+        },
+        "type": "Noun, Adjective, な-adjective",
+        "meaning": "famous",
+        "level": "N5"
+    },
+    {
+        "vocab": "雑誌",
+        "reading": {
+            "romaji": "zasshi",
+            "hiragana": "ざっし"
+        },
+        "type": "Noun",
+        "meaning": "magazine",
+        "level": "N5"
+    },
+    {
+        "vocab": "全部",
+        "reading": {
+            "romaji": "zenbu",
+            "hiragana": "ぜんぶ"
+        },
+        "type": "Noun, Adverbial Noun",
+        "meaning": "all",
+        "level": "N5"
+    },
+    {
+        "vocab": "ゼロ",
+        "reading": {
+            "romaji": "zero",
+            "hiragana": ""
+        },
+        "type": "Noun",
+        "meaning": "zero",
+        "level": "N5"
+    },
+    {
+        "vocab": "ズボン",
+        "reading": {
+            "romaji": "zubon",
+            "hiragana": ""
+        },
+        "type": "Noun, Katakana",
+        "meaning": "trousers; pants",
+        "level": "N5"
+    }
+]

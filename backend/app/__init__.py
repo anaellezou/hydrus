@@ -7,7 +7,7 @@ def create_app(config=None):
 
     # Load configuration
     app.config.from_mapping(
-        DATABASE=os.path.join(os.path.dirname(__file__), "database", "kanji_database.db"),
+        DATABASE=os.path.join(os.path.dirname(__file__), "..", "jlpt.db"),
         SECRET_KEY=os.environ.get("SECRET_KEY", "dev"),
     )
 
@@ -20,6 +20,12 @@ def create_app(config=None):
     # Register blueprints
     from .api.kanji import kanji_bp
     app.register_blueprint(kanji_bp, url_prefix="/api/kanji")
+
+    from .api.grammar import grammar_bp
+    app.register_blueprint(grammar_bp, url_prefix="/api/grammar")
+
+    from .api.vocabulary import vocabulary_bp
+    app.register_blueprint(vocabulary_bp, url_prefix="/api/vocabulary")
 
     # Health check
     @app.route("/api/health")
