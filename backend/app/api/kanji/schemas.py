@@ -2,7 +2,7 @@ from marshmallow import Schema, fields, validate, ValidationError
 
 class KanjiSchema(Schema):
     id = fields.Int(dump_only=True)
-    character = fields.Str(required=True)
+    kanji = fields.Str(required=True)
     meaning = fields.Str(required=True)
     onyomi = fields.Str(required=True, data_key="onReading")
     kunyomi = fields.Str(required=True, data_key="kunReading")
