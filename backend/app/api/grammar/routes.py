@@ -51,7 +51,7 @@ def search_grammar():
 @grammar_bp.get("/<int:grammar_id>")
 def get_grammar(grammar_id):
 
-    grammar = Grammar.get_by_id(grammar_id)
+    grammar = Grammar.get_grammar_by_id(grammar_id)
     if grammar is None:
         abort(404, description=f"grammar point with ID {grammar_id} not found")
 

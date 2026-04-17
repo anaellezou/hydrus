@@ -38,7 +38,7 @@ class Grammar:
         return [cls.from_row(r) for r in rows]
  
     @classmethod
-    def get_by_id(cls, grammar_id):
+    def get_grammar_by_id(cls, grammar_id):
         """Returns specific grammar point by ID, or None if not found"""
 
         db = get_db()

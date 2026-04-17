@@ -42,7 +42,7 @@ class Vocabulary:
         return [cls.from_row(r) for r in rows]
 
     @classmethod
-    def get_by_id(cls, vocab_id):
+    def get_vocabulary_by_id(cls, vocab_id):
         """return a specific word by its ID, or None if it doesnt exist"""
 
         db = get_db()

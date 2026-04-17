@@ -30,7 +30,7 @@ def get_all_vocabulary():
 # GET /api/vocabulary/<int:vocab_id>
 @vocabulary_bp.get("/<int:vocab_id>")
 def get_vocabulary(vocab_id):
-    vocab = Vocabulary.get_by_id(vocab_id)
+    vocab = Vocabulary.get_vocabulary_by_id(vocab_id)
     if vocab is None:
         abort(404, description=f"word with ID {vocab_id} not found")
 
