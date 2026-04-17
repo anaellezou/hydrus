@@ -541,7 +541,7 @@ export default function App() {
               </LevelBtn>
             ))}
           </LevelTabs>
-          <AppTitle>筆 · Fude</AppTitle>
+          <AppTitle>水蛇座 · Hydrus</AppTitle>
         </Header>
 
         {showDropdown && (
