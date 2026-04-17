@@ -3,6 +3,7 @@
 ![CI](https://github.com/anaellezou/hydrus/actions/workflows/ci.yml/badge.svg)
 
 A minimalist JLPT study app — browse kanji, vocabulary, and grammar from N5 to N1.
+
 /!\ For now, only N5 level is available /!\
 
 ---
@@ -103,3 +104,14 @@ Create a `.env` file in `backend/` based on `.env.example`:
 ```
 SECRET_KEY=your_secret_key_here
 ```
+
+## Next steps
+
+- Add monitoring and alerting (Prometheus / Grafana or Datadog)
+- Implement blue/green or canary deployment strategy
+- Add staging environment
+- Set up security scanning in the CI pipeline
+
+- Review architecture to add other levels (N4 to N1)
+- Add JLPT exams
+- Add users and authentication (OAuth2 / JWT)
