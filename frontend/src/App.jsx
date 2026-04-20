@@ -2,7 +2,7 @@ import { useState, useEffect, useCallback } from "react";
 import styled, { createGlobalStyle, keyframes } from "styled-components";
 
 // ─── Config ────────────────────────────────────────────────────────────────
-const API_BASE = "http://localhost:5001/api";
+const API_BASE = import.meta.env.VITE_API_BASE || "http://localhost:5001/api";
 const LEVELS = ["N5", "N4", "N3", "N2", "N1"];
 const SECTIONS = ["vocabulary", "kanji", "grammar"];
 
