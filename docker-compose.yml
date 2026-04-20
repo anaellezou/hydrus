@@ -5,6 +5,8 @@ services:
       - "5001:5000"
     volumes:
       - ./backend/jlpt.db:/app/jlpt.db
+    env_file:
+      - ./backend/.env
     environment:
       - FLASK_ENV=development
 
@@ -12,5 +14,7 @@ services:
     build: ./frontend
     ports:
       - "5173:5173"
+    env_file:
+      - ./frontend/.env
     depends_on:
       - backend
