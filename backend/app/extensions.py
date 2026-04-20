@@ -2,6 +2,7 @@ import sqlite3
 import click
 from flask import current_app, g
 from flask_cors import CORS
+import os
 
 def get_db():
     if 'db' not in g:
@@ -20,7 +21,10 @@ def close_db(e=None):
 def init_app(app):
     CORS(app, resources={
         r"/api/*": {
-            "origins": ["http://localhost:5173"]
+            "origins": [
+                "http://localhost:5173",
+                os.environ.get("FRONTEND_URL", ""),
+            ]
         }
     })
     app.teardown_appcontext(close_db)
