@@ -9,10 +9,10 @@ A minimalist JLPT study app. Browse kanji, vocabulary, and grammar from N5 to N1
 
 ## Stack
 
-**Backend** — Python · Flask · SQLite · Docker  
-**Frontend** — React · Vite · Styled Components  
-**Infrastructure** — Terraform · AWS EC2 · Docker Compose  
-**CI/CD** — GitHub Actions
+**Backend** Python · Flask · SQLite · Docker  
+**Frontend** React · Vite · Styled Components  
+**Infrastructure** Terraform · AWS EC2 · Elastic IP · Docker Compose  
+**CI/CD** GitHub Actions
 
 ---
 
@@ -53,7 +53,7 @@ The database is created automatically on first launch.
 
 ## Infrastructure
 
-The app is deployed on AWS EC2 and provisioned with Terraform.
+The app is deployed on AWS EC2 and provisioned with Terraform. An Elastic IP ensures the public address never changes between restarts.
 
 ### Prerequisites
 
@@ -73,14 +73,14 @@ terraform apply
 ### Start / stop the instance
 
 ```bash
-# Start
+# Start the instance and print the app URL
 ./start.sh
 
-# Stop
+# Stop the instance
 ./stop.sh
 ```
 
-The `start.sh` script starts the EC2 instance, waits for it to be ready, and prints the app URL.
+Both scripts are run from your local machine via AWS CLI.
 
 ---
 
@@ -88,8 +88,10 @@ The `start.sh` script starts the EC2 instance, waits for it to be ready, and pri
 
 Every push to `main` triggers the pipeline:
 
-1. **CI** — runs pytest on the backend
-2. **CD** — deploys to EC2 automatically if tests pass
+1. **CI** : runs pytest on the backend
+2. **CD** : deploys to EC2 automatically if tests pass
+
+> Note: the CD job requires the EC2 instance to be running at the time of the push.
 
 ---
 
@@ -146,7 +148,7 @@ hydrus/
 
 ## Environment Variables
 
-Create the following files locally (never commit them):
+Create the following files locally — never commit them.
 
 **`frontend/.env`**
 ```
@@ -159,9 +161,15 @@ SECRET_KEY=your_secret_key_here
 FRONTEND_URL=http://localhost:5173
 ```
 
+Generate a secure secret key:
+```bash
+python -c "import secrets; print(secrets.token_hex(32))"
+```
+
 ## Next steps
 
 - /!\ make it available for any kind of device /!\ . DONE
+- Add Elastic IP . DONE
 - Add monitoring and alerting (Prometheus / Grafana or Datadog)
 - Add staging environment
 - Set up security scanning in the CI pipeline
