@@ -1,12 +1,12 @@
-import { useState, useEffect, useCallback } from "react";
-import styled, { createGlobalStyle, keyframes } from "styled-components";
+import { useState, useEffect, useCallback, useRef } from "react";
+import styled, { createGlobalStyle, keyframes, css } from "styled-components";
 
 // ─── Config ────────────────────────────────────────────────────────────────
 const API_BASE = import.meta.env.VITE_API_BASE || "http://localhost:5001/api";
 const LEVELS = ["N5", "N4", "N3", "N2", "N1"];
 const SECTIONS = ["vocabulary", "kanji", "grammar"];
-
 const DROPDOWN_OFFSET_X = 110;
+const MOBILE_BREAKPOINT = 768;
 
 // ─── Global Styles ──────────────────────────────────────────────────────────
 const GlobalStyle = createGlobalStyle`
@@ -57,6 +57,14 @@ const shimmer = keyframes`
   0%,100% { opacity: 0.4; }
   50%      { opacity: 0.7; }
 `;
+const slideInLeft = keyframes`
+  from { opacity: 0; transform: translateX(-16px); }
+  to   { opacity: 1; transform: translateX(0); }
+`;
+const expandSection = keyframes`
+  from { opacity: 0; max-height: 0; }
+  to   { opacity: 1; max-height: 200px; }
+`;
 
 // ─── Layout ─────────────────────────────────────────────────────────────────
 const Root = styled.div`
@@ -87,7 +95,7 @@ const BgOverlay = styled.div`
   z-index: 1;
 `;
 
-// ─── Header ─────────────────────────────────────────────────────────────────
+// ─── Desktop Header ──────────────────────────────────────────────────────────
 const Header = styled.header`
   position: relative;
   z-index: 30;
@@ -95,6 +103,10 @@ const Header = styled.header`
   align-items: center;
   gap: 2.5rem;
   padding: 2rem 3rem;
+
+  @media (max-width: ${MOBILE_BREAKPOINT}px) {
+    display: none;
+  }
 `;
 
 const MaskImage = styled.img`
@@ -153,7 +165,7 @@ const AppTitle = styled.h1`
   text-transform: uppercase;
 `;
 
-// ─── Section Dropdown ────────────────────────────────────────────────────────
+// ─── Desktop Dropdown ────────────────────────────────────────────────────────
 const DropdownWrap = styled.div`
   position: fixed;
   top: ${({ $top }) => $top}px;
@@ -164,6 +176,10 @@ const DropdownWrap = styled.div`
   display: flex;
   gap: 0.8rem;
   animation: ${slideDown} 0.3s ease forwards;
+
+  @media (max-width: ${MOBILE_BREAKPOINT}px) {
+    display: none;
+  }
 `;
 
 const SectionBtn = styled.button`
@@ -187,6 +203,202 @@ const SectionBtn = styled.button`
   }
 `;
 
+// ─── Mobile Header ───────────────────────────────────────────────────────────
+const MobileHeader = styled.header`
+  display: none;
+  position: relative;
+  z-index: 30;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 1.5rem 1rem;
+
+  @media (max-width: ${MOBILE_BREAKPOINT}px) {
+    display: flex;
+  }
+`;
+
+const MobileMaskImage = styled.img`
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  filter: contrast(1.1) brightness(0.95);
+  opacity: 0.88;
+  margin-bottom: 0.5rem;
+`;
+
+const MobileAppTitle = styled.h1`
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 300;
+  font-size: 0.9rem;
+  letter-spacing: 0.35em;
+  color: var(--muted);
+  text-transform: uppercase;
+`;
+
+// ─── Mobile Toaster Menu ─────────────────────────────────────────────────────
+const ToasterBtn = styled.button`
+  position: fixed;
+  top: 1.5rem;
+  left: 1.5rem;
+  z-index: 50;
+  background: rgba(10, 12, 15, 0.85);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  width: 40px;
+  height: 40px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  cursor: pointer;
+  backdrop-filter: blur(12px);
+  transition: border-color 0.2s ease;
+
+  @media (max-width: ${MOBILE_BREAKPOINT}px) {
+    display: flex;
+  }
+
+  &:hover {
+    border-color: rgba(255,255,255,0.2);
+  }
+`;
+
+const ToasterLine = styled.span`
+  display: block;
+  width: 16px;
+  height: 1px;
+  background: var(--white);
+  transition: all 0.25s ease;
+  transform-origin: center;
+
+  &:nth-child(1) {
+    transform: ${({ $open }) => $open ? "translateY(6px) rotate(45deg)" : "none"};
+  }
+  &:nth-child(2) {
+    opacity: ${({ $open }) => $open ? "0" : "1"};
+  }
+  &:nth-child(3) {
+    transform: ${({ $open }) => $open ? "translateY(-6px) rotate(-45deg)" : "none"};
+  }
+`;
+
+const MobileMenuOverlay = styled.div`
+  display: none;
+
+  @media (max-width: ${MOBILE_BREAKPOINT}px) {
+    display: block;
+    position: fixed;
+    inset: 0;
+    z-index: 45;
+    background: transparent;
+    pointer-events: ${({ $open }) => $open ? "auto" : "none"};
+  }
+`;
+
+const MobileMenuPanel = styled.div`
+  display: none;
+
+  @media (max-width: ${MOBILE_BREAKPOINT}px) {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 220px;
+    z-index: 46;
+    background: rgba(8, 10, 13, 0.96);
+    border-right: 1px solid var(--border);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    transform: ${({ $open }) => $open ? "translateX(0)" : "translateX(-100%)"};
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    padding: 5rem 0 2rem;
+    overflow-y: auto;
+  }
+`;
+
+const MobileLevelItem = styled.div`
+  border-bottom: 1px solid var(--border);
+`;
+
+const MobileLevelBtn = styled.button`
+  width: 100%;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  font-size: 0.72rem;
+  letter-spacing: 0.22em;
+  color: ${({ $active }) => ($active ? "var(--white)" : "var(--muted)")};
+  padding: 1.1rem 1.8rem;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  transition: color 0.2s ease, background 0.2s ease;
+
+  &:hover {
+    color: var(--white);
+    background: rgba(255,255,255,0.03);
+  }
+
+  &::after {
+    content: '';
+    display: block;
+    width: 5px;
+    height: 5px;
+    border-right: 1px solid currentColor;
+    border-bottom: 1px solid currentColor;
+    transform: ${({ $active }) => $active ? "rotate(-135deg)" : "rotate(45deg)"};
+    transition: transform 0.25s ease;
+    opacity: 0.5;
+  }
+`;
+
+const MobileSectionsWrap = styled.div`
+  overflow: hidden;
+  max-height: ${({ $open }) => $open ? "200px" : "0"};
+  transition: max-height 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+`;
+
+const MobileSectionBtn = styled.button`
+  width: 100%;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  font-size: 0.6rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: ${({ $active }) => ($active ? "var(--white)" : "var(--muted)")};
+  padding: 0.8rem 1.8rem 0.8rem 2.8rem;
+  text-align: left;
+  transition: color 0.2s ease, background 0.2s ease;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+
+  &::before {
+    content: '';
+    display: block;
+    width: 3px;
+    height: 3px;
+    border-radius: 50%;
+    background: ${({ $active }) => ($active ? "var(--white)" : "var(--muted)")};
+    flex-shrink: 0;
+    transition: background 0.2s ease;
+  }
+
+  &:hover {
+    color: var(--white);
+    background: rgba(255,255,255,0.03);
+    &::before { background: var(--white); }
+  }
+`;
+
 // ─── Content Panel ───────────────────────────────────────────────────────────
 const ContentArea = styled.main`
   position: relative;
@@ -194,6 +406,11 @@ const ContentArea = styled.main`
   flex: 1;
   padding: 1.8rem 3rem 4rem;
   margin-top: 1rem;
+
+  @media (max-width: ${MOBILE_BREAKPOINT}px) {
+    padding: 1rem 1rem 3rem;
+    margin-top: 0;
+  }
 `;
 
 const Panel = styled.div`
@@ -204,6 +421,10 @@ const Panel = styled.div`
   -webkit-backdrop-filter: blur(24px) saturate(1.4);
   padding: 2.5rem 3rem;
   animation: ${fadeIn} 0.35s ease;
+
+  @media (max-width: ${MOBILE_BREAKPOINT}px) {
+    padding: 1.5rem 1.2rem;
+  }
 `;
 
 const LoadingText = styled.p`
@@ -240,6 +461,13 @@ const FilterBar = styled.div`
   margin-right: -3rem;
   padding-left: 3rem;
   padding-right: 3rem;
+
+  @media (max-width: ${MOBILE_BREAKPOINT}px) {
+    margin-left: -1.2rem;
+    margin-right: -1.2rem;
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+  }
 `;
 
 const FilterChip = styled.button`
@@ -269,6 +497,10 @@ const Grid = styled.div`
   gap: 1px;
   background: var(--border);
   border: 1px solid var(--border);
+
+  @media (max-width: ${MOBILE_BREAKPOINT}px) {
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  }
 `;
 
 const Card = styled.div`
@@ -283,6 +515,10 @@ const Card = styled.div`
   animation-delay: ${({ $index }) => Math.min($index * 0.015, 0.3)}s;
 
   &:hover { background: rgba(255,255,255,0.045); }
+
+  @media (max-width: ${MOBILE_BREAKPOINT}px) {
+    padding: 1.2rem 1rem;
+  }
 `;
 
 const CardMain = styled.span`
@@ -340,9 +576,10 @@ const GrammarRow = styled.div`
 
   &:hover { background: rgba(255,255,255,0.04); }
 
-  @media (max-width: 700px) {
+  @media (max-width: ${MOBILE_BREAKPOINT}px) {
     grid-template-columns: 1fr;
     gap: 0.4rem;
+    padding: 1rem 1.2rem;
   }
 `;
 
@@ -382,6 +619,16 @@ function getVocabTypes(items) {
 function truncateMeaning(str, max = 48) {
   if (!str) return "";
   return str.length > max ? str.slice(0, max) + "…" : str;
+}
+
+function useIsMobile() {
+  const [isMobile, setIsMobile] = useState(window.innerWidth <= MOBILE_BREAKPOINT);
+  useEffect(() => {
+    const handler = () => setIsMobile(window.innerWidth <= MOBILE_BREAKPOINT);
+    window.addEventListener("resize", handler);
+    return () => window.removeEventListener("resize", handler);
+  }, []);
+  return isMobile;
 }
 
 // ─── Sub-views ───────────────────────────────────────────────────────────────
@@ -495,11 +742,19 @@ function GrammarView({ level }) {
 
 // ─── App ─────────────────────────────────────────────────────────────────────
 export default function App() {
+  const isMobile = useIsMobile();
+
+  // Desktop state
   const [activeLevel, setActiveLevel] = useState(null);
   const [activeSection, setActiveSection] = useState(null);
   const [showDropdown, setShowDropdown] = useState(false);
   const [dropdownPos, setDropdownPos] = useState({ top: 0, left: 0 });
 
+  // Mobile state
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [mobileExpandedLevel, setMobileExpandedLevel] = useState(null);
+
+  // ── Desktop handlers ──
   const handleLevelClick = useCallback((level, e) => {
     const rect = e.currentTarget.getBoundingClientRect();
     setDropdownPos({
@@ -521,6 +776,19 @@ export default function App() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   }, []);
 
+  // ── Mobile handlers ──
+  const handleMobileLevelClick = useCallback((level) => {
+    setMobileExpandedLevel(prev => prev === level ? null : level);
+  }, []);
+
+  const handleMobileSectionClick = useCallback((level, section) => {
+    setActiveLevel(level);
+    setActiveSection(section);
+    setMobileMenuOpen(false);
+    setMobileExpandedLevel(null);
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }, []);
+
   return (
     <>
       <GlobalStyle />
@@ -528,6 +796,7 @@ export default function App() {
         <BgImage />
         <BgOverlay />
 
+        {/* ── Desktop Header ── */}
         <Header>
           <MaskImage src="/mask.png" alt="mask" />
           <LevelTabs>
@@ -544,7 +813,8 @@ export default function App() {
           <AppTitle>水蛇座 · Hydrus</AppTitle>
         </Header>
 
-        {showDropdown && (
+        {/* ── Desktop Dropdown ── */}
+        {showDropdown && !isMobile && (
           <DropdownWrap
             key={activeLevel}
             $top={dropdownPos.top}
@@ -562,6 +832,51 @@ export default function App() {
           </DropdownWrap>
         )}
 
+        {/* ── Mobile Header ── */}
+        <MobileHeader>
+          <MobileMaskImage src="/mask.png" alt="mask" />
+          <MobileAppTitle>水蛇座 · Hydrus</MobileAppTitle>
+        </MobileHeader>
+
+        {/* ── Mobile Toaster Button ── */}
+        <ToasterBtn onClick={() => setMobileMenuOpen(o => !o)} aria-label="Menu">
+          <ToasterLine $open={mobileMenuOpen} />
+          <ToasterLine $open={mobileMenuOpen} />
+          <ToasterLine $open={mobileMenuOpen} />
+        </ToasterBtn>
+
+        {/* ── Mobile Menu Overlay (close on tap outside) ── */}
+        <MobileMenuOverlay
+          $open={mobileMenuOpen}
+          onClick={() => setMobileMenuOpen(false)}
+        />
+
+        {/* ── Mobile Slide-in Panel ── */}
+        <MobileMenuPanel $open={mobileMenuOpen}>
+          {LEVELS.map(level => (
+            <MobileLevelItem key={level}>
+              <MobileLevelBtn
+                $active={mobileExpandedLevel === level}
+                onClick={() => handleMobileLevelClick(level)}
+              >
+                {level}
+              </MobileLevelBtn>
+              <MobileSectionsWrap $open={mobileExpandedLevel === level}>
+                {SECTIONS.map(section => (
+                  <MobileSectionBtn
+                    key={section}
+                    $active={activeLevel === level && activeSection === section}
+                    onClick={() => handleMobileSectionClick(level, section)}
+                  >
+                    {section}
+                  </MobileSectionBtn>
+                ))}
+              </MobileSectionsWrap>
+            </MobileLevelItem>
+          ))}
+        </MobileMenuPanel>
+
+        {/* ── Content ── */}
         {activeLevel && activeSection && (
           <ContentArea>
             <Panel key={`${activeLevel}-${activeSection}`}>
