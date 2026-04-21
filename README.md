@@ -161,7 +161,7 @@ FRONTEND_URL=http://localhost:5173
 
 ## Next steps
 
-- /!\ make it available for any kind of device /!\
+- /!\ make it available for any kind of device /!\ . DONE
 - Add monitoring and alerting (Prometheus / Grafana or Datadog)
 - Add staging environment
 - Set up security scanning in the CI pipeline
