@@ -3,7 +3,7 @@
 ![CI](https://github.com/anaellezou/hydrus/actions/workflows/ci.yml/badge.svg)
 ![CD](https://github.com/anaellezou/hydrus/actions/workflows/cd.yml/badge.svg)
 
-A minimalist JLPT study app — browse kanji, vocabulary, and grammar from N5 to N1.
+A minimalist JLPT study app. Browse kanji, vocabulary, and grammar from N5 to N1.
 
 ---
 
